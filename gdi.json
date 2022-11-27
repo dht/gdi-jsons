@@ -1,0 +1,3796 @@
+{
+  "libraryImages": {
+    "1": {
+      "id": "1",
+      "title": "Ut non nobis.",
+      "imageThumbUrl": "https://picsum.photos/seed/1/200/147",
+      "dataTags": ["thisWeek"],
+      "tags": ["background", "friend"],
+      "imageUrl": "https://picsum.photos/seed/1/873/642",
+      "ratio": 1.3598130841121496,
+      "_createdDate": 1669393885368,
+      "_modifiedDate": 1669393885368,
+      "index": 0
+    },
+    "2": {
+      "imageUrl": "https://picsum.photos/seed/2/916/1070",
+      "_modifiedDate": 1669393884369,
+      "title": "Atque est dolores perspiciatis aut praesentium.",
+      "_createdDate": 1669393884369,
+      "dataTags": ["thisWeek"],
+      "id": "2",
+      "tags": ["background", "team", "nature", "geek", "friend"],
+      "imageThumbUrl": "https://picsum.photos/seed/2/200/234",
+      "ratio": 0.8560747663551402,
+      "index": 13
+    },
+    "3": {
+      "ratio": 1.4199561403508771,
+      "dataTags": ["thisWeek"],
+      "id": "3",
+      "_createdDate": 1669393883369,
+      "tags": ["nature", "background", "friend", "people", "team"],
+      "title": "Iure eum qui error et aspernatur eaque corrupti.",
+      "_modifiedDate": 1669393883369,
+      "imageUrl": "https://picsum.photos/seed/3/1295/912",
+      "imageThumbUrl": "https://picsum.photos/seed/3/200/141",
+      "index": 24
+    },
+    "4": {
+      "imageUrl": "https://picsum.photos/seed/4/921/618",
+      "id": "4",
+      "_modifiedDate": 1669393882369,
+      "ratio": 1.4902912621359223,
+      "dataTags": ["thisWeek"],
+      "title": "Alias id vitae perspiciatis voluptas nesciunt velit et dolorum.",
+      "_createdDate": 1669393882369,
+      "imageThumbUrl": "https://picsum.photos/seed/4/200/134",
+      "tags": ["friend", "geek", "team", "people"],
+      "index": 35
+    },
+    "5": {
+      "title": "Soluta perferendis dolore sit voluptas consequuntur.",
+      "id": "5",
+      "_modifiedDate": 1669393881369,
+      "tags": ["team", "nature", "background", "friend"],
+      "ratio": 1.5741176470588236,
+      "_createdDate": 1669393881369,
+      "imageUrl": "https://picsum.photos/seed/5/1338/850",
+      "imageThumbUrl": "https://picsum.photos/seed/5/200/127",
+      "dataTags": ["thisWeek"],
+      "index": 46
+    },
+    "6": {
+      "tags": ["background"],
+      "imageThumbUrl": "https://picsum.photos/seed/6/200/123",
+      "dataTags": ["thisWeek"],
+      "_createdDate": 1669393880369,
+      "title": "Facilis expedita eligendi sed iusto.",
+      "imageUrl": "https://picsum.photos/seed/6/1521/939",
+      "id": "6",
+      "_modifiedDate": 1669393880369,
+      "ratio": 1.6198083067092652,
+      "index": 57
+    },
+    "7": {
+      "dataTags": ["thisWeek"],
+      "_modifiedDate": 1669393879369,
+      "tags": ["geek", "nature", "team", "friend"],
+      "id": "7",
+      "imageThumbUrl": "https://picsum.photos/seed/7/200/130",
+      "_createdDate": 1669393879369,
+      "imageUrl": "https://picsum.photos/seed/7/1489/965",
+      "title": "Amet cupiditate quia qui occaecati veniam magnam ut autem aut.",
+      "ratio": 1.5430051813471504,
+      "index": 68
+    },
+    "8": {
+      "dataTags": ["thisWeek"],
+      "id": "8",
+      "ratio": 2.2,
+      "imageThumbUrl": "https://picsum.photos/seed/8/200/91",
+      "_createdDate": 1669393878369,
+      "tags": ["nature", "team", "friend", "background", "geek"],
+      "imageUrl": "https://picsum.photos/seed/8/1177/535",
+      "title": "Impedit in qui placeat.",
+      "_modifiedDate": 1669393878369,
+      "index": 79
+    },
+    "9": {
+      "imageThumbUrl": "https://picsum.photos/seed/9/200/148",
+      "_modifiedDate": 1669393877369,
+      "tags": ["friend", "background"],
+      "dataTags": ["thisWeek"],
+      "imageUrl": "https://picsum.photos/seed/9/1225/906",
+      "title": "Eligendi quam et laboriosam reiciendis autem aliquam recusandae est enim.",
+      "id": "9",
+      "ratio": 1.3520971302428255,
+      "_createdDate": 1669393877369,
+      "index": 92
+    },
+    "10": {
+      "dataTags": ["thisWeek"],
+      "title": "Enim quae sed nesciunt consequatur error minima.",
+      "imageThumbUrl": "https://picsum.photos/seed/10/200/146",
+      "id": "10",
+      "tags": ["people", "nature"],
+      "ratio": 1.3681318681318682,
+      "imageUrl": "https://picsum.photos/seed/10/996/728",
+      "_modifiedDate": 1669393876369,
+      "_createdDate": 1669393876369,
+      "index": 1
+    },
+    "11": {
+      "title": "Quis nisi omnis odio odit et voluptatum tenetur consequatur.",
+      "imageUrl": "https://picsum.photos/seed/11/1557/882",
+      "_createdDate": 1669393875369,
+      "_modifiedDate": 1669393875369,
+      "imageThumbUrl": "https://picsum.photos/seed/11/200/113",
+      "ratio": 1.7653061224489797,
+      "id": "11",
+      "dataTags": ["thisWeek"],
+      "tags": ["people", "background"],
+      "index": 4
+    },
+    "12": {
+      "_modifiedDate": 1669393874369,
+      "dataTags": ["thisWeek"],
+      "ratio": 2.632619439868204,
+      "id": "12",
+      "imageUrl": "https://picsum.photos/seed/12/1598/607",
+      "title": "Maxime unde quis voluptatem consequatur.",
+      "imageThumbUrl": "https://picsum.photos/seed/12/200/76",
+      "_createdDate": 1669393874369,
+      "tags": ["background"],
+      "index": 5
+    },
+    "13": {
+      "_modifiedDate": 1669393873369,
+      "tags": ["team", "geek", "background", "friend", "nature", "people"],
+      "_createdDate": 1669393873369,
+      "dataTags": ["thisWeek"],
+      "imageThumbUrl": "https://picsum.photos/seed/13/200/225",
+      "id": "13",
+      "imageUrl": "https://picsum.photos/seed/13/822/924",
+      "ratio": 0.8896103896103896,
+      "title": "Iste non magnam.",
+      "index": 6
+    },
+    "14": {
+      "ratio": 1.7276785714285714,
+      "imageThumbUrl": "https://picsum.photos/seed/14/200/116",
+      "imageUrl": "https://picsum.photos/seed/14/1161/672",
+      "_createdDate": 1669393872369,
+      "_modifiedDate": 1669393872369,
+      "tags": ["nature", "friend", "people", "geek"],
+      "dataTags": ["thisWeek"],
+      "title": "Debitis esse est optio unde quas ea.",
+      "id": "14",
+      "index": 7
+    },
+    "15": {
+      "ratio": 1.3051470588235294,
+      "id": "15",
+      "dataTags": ["thisWeek"],
+      "_modifiedDate": 1669393871369,
+      "imageThumbUrl": "https://picsum.photos/seed/15/200/153",
+      "tags": ["background", "team", "friend", "people"],
+      "imageUrl": "https://picsum.photos/seed/15/1420/1088",
+      "_createdDate": 1669393871369,
+      "title": "Ut totam fuga eius eveniet nihil commodi porro recusandae magni.",
+      "index": 8
+    },
+    "16": {
+      "ratio": 1.060017652250662,
+      "title": "Et tempora quam enim placeat sed laudantium.",
+      "id": "16",
+      "_modifiedDate": 1669393870369,
+      "_createdDate": 1669393870369,
+      "imageThumbUrl": "https://picsum.photos/seed/16/200/189",
+      "dataTags": ["thisWeek"],
+      "imageUrl": "https://picsum.photos/seed/16/1201/1133",
+      "tags": ["friend", "background", "geek", "team"],
+      "index": 9
+    },
+    "17": {
+      "title": "Culpa similique impedit.",
+      "dataTags": ["thisWeek"],
+      "imageThumbUrl": "https://picsum.photos/seed/17/200/217",
+      "tags": ["team", "friend", "nature"],
+      "id": "17",
+      "imageUrl": "https://picsum.photos/seed/17/958/1039",
+      "_modifiedDate": 1669393869369,
+      "ratio": 0.9220404234841193,
+      "_createdDate": 1669393869369,
+      "index": 10
+    },
+    "18": {
+      "imageThumbUrl": "https://picsum.photos/seed/18/200/176",
+      "tags": ["team", "nature", "background", "people", "friend", "geek"],
+      "id": "18",
+      "_modifiedDate": 1669393868369,
+      "title": "Soluta necessitatibus sed et neque.",
+      "dataTags": ["thisWeek"],
+      "imageUrl": "https://picsum.photos/seed/18/815/716",
+      "_createdDate": 1669393868369,
+      "ratio": 1.138268156424581,
+      "index": 11
+    },
+    "19": {
+      "id": "19",
+      "title": "Harum et iusto laboriosam aut.",
+      "_modifiedDate": 1669393867369,
+      "imageUrl": "https://picsum.photos/seed/19/1010/1025",
+      "ratio": 0.9853658536585366,
+      "tags": ["background"],
+      "_createdDate": 1669393867369,
+      "dataTags": ["thisWeek"],
+      "imageThumbUrl": "https://picsum.photos/seed/19/200/203",
+      "index": 12
+    },
+    "20": {
+      "tags": ["geek", "nature", "background"],
+      "title": "Sit numquam omnis consectetur cupiditate facilis facere.",
+      "imageThumbUrl": "https://picsum.photos/seed/20/200/174",
+      "_createdDate": 1669393866369,
+      "dataTags": ["thisWeek"],
+      "imageUrl": "https://picsum.photos/seed/20/917/800",
+      "ratio": 1.14625,
+      "id": "20",
+      "_modifiedDate": 1669393866369,
+      "index": 14
+    },
+    "21": {
+      "imageUrl": "https://picsum.photos/seed/21/1452/937",
+      "imageThumbUrl": "https://picsum.photos/seed/21/200/129",
+      "_createdDate": 1669393865369,
+      "_modifiedDate": 1669393865369,
+      "title": "Quia accusamus voluptatem esse enim.",
+      "tags": ["friend", "nature", "team", "people"],
+      "dataTags": ["thisWeek"],
+      "id": "21",
+      "ratio": 1.5496264674493063,
+      "index": 15
+    },
+    "22": {
+      "_modifiedDate": 1669393864369,
+      "title": "Quo dolorum sint accusamus ex cumque quo.",
+      "dataTags": ["thisWeek"],
+      "imageUrl": "https://picsum.photos/seed/22/1570/585",
+      "id": "22",
+      "ratio": 2.6837606837606836,
+      "imageThumbUrl": "https://picsum.photos/seed/22/200/75",
+      "tags": ["friend", "geek", "nature", "people", "team", "background"],
+      "_createdDate": 1669393864369,
+      "index": 16
+    },
+    "23": {
+      "ratio": 1.6051612903225807,
+      "imageUrl": "https://picsum.photos/seed/23/1244/775",
+      "_modifiedDate": 1669393863369,
+      "id": "23",
+      "title": "Est voluptatem itaque.",
+      "imageThumbUrl": "https://picsum.photos/seed/23/200/125",
+      "_createdDate": 1669393863369,
+      "tags": ["friend", "geek", "people", "nature", "background", "team"],
+      "dataTags": ["thisWeek"],
+      "index": 17
+    },
+    "24": {
+      "title": "Qui et maiores facere eveniet dolor ipsum.",
+      "ratio": 1.7510148849797023,
+      "_modifiedDate": 1669393862369,
+      "id": "24",
+      "_createdDate": 1669393862369,
+      "imageUrl": "https://picsum.photos/seed/24/1294/739",
+      "dataTags": ["thisWeek"],
+      "tags": ["people"],
+      "imageThumbUrl": "https://picsum.photos/seed/24/200/114",
+      "index": 18
+    },
+    "25": {
+      "imageThumbUrl": "https://picsum.photos/seed/25/200/98",
+      "tags": ["geek", "nature", "team", "background", "people"],
+      "imageUrl": "https://picsum.photos/seed/25/1571/770",
+      "_modifiedDate": 1669393861369,
+      "dataTags": ["thisWeek"],
+      "title": "Velit labore aut et.",
+      "_createdDate": 1669393861369,
+      "ratio": 2.0402597402597404,
+      "id": "25",
+      "index": 19
+    },
+    "26": {
+      "title": "Molestias rerum vel voluptas nam.",
+      "id": "26",
+      "ratio": 1.9912609238451935,
+      "dataTags": ["thisWeek"],
+      "_modifiedDate": 1669393860369,
+      "tags": ["friend", "team", "people"],
+      "_createdDate": 1669393860369,
+      "imageThumbUrl": "https://picsum.photos/seed/26/200/100",
+      "imageUrl": "https://picsum.photos/seed/26/1595/801",
+      "index": 20
+    },
+    "27": {
+      "dataTags": ["thisWeek"],
+      "tags": ["team", "friend", "nature", "geek", "background", "people"],
+      "title": "Repellat asperiores quas.",
+      "_createdDate": 1669393859369,
+      "imageThumbUrl": "https://picsum.photos/seed/27/200/191",
+      "_modifiedDate": 1669393859369,
+      "imageUrl": "https://picsum.photos/seed/27/1134/1081",
+      "ratio": 1.0490286771507864,
+      "id": "27",
+      "index": 21
+    },
+    "28": {
+      "id": "28",
+      "tags": ["friend", "geek", "team", "background"],
+      "imageUrl": "https://picsum.photos/seed/28/1267/842",
+      "_modifiedDate": 1669393858369,
+      "ratio": 1.504750593824228,
+      "title": "Quod aliquid iusto vitae.",
+      "_createdDate": 1669393858369,
+      "imageThumbUrl": "https://picsum.photos/seed/28/200/133",
+      "dataTags": ["thisWeek"],
+      "index": 22
+    },
+    "29": {
+      "imageThumbUrl": "https://picsum.photos/seed/29/200/180",
+      "dataTags": ["thisWeek"],
+      "imageUrl": "https://picsum.photos/seed/29/1185/1069",
+      "_modifiedDate": 1669393857369,
+      "_createdDate": 1669393857369,
+      "tags": ["geek", "people", "team", "nature", "friend", "background"],
+      "ratio": 1.108512628624883,
+      "id": "29",
+      "title": "Autem pariatur ea laborum illum ex dolores blanditiis.",
+      "index": 23
+    },
+    "30": {
+      "title": "Maxime sint voluptatem ab temporibus mollitia totam.",
+      "imageThumbUrl": "https://picsum.photos/seed/30/200/148",
+      "_modifiedDate": 1669393856369,
+      "tags": ["people", "team"],
+      "dataTags": ["thisWeek"],
+      "id": "30",
+      "imageUrl": "https://picsum.photos/seed/30/1421/1053",
+      "_createdDate": 1669393856369,
+      "ratio": 1.3494776828110162,
+      "index": 25
+    },
+    "31": {
+      "imageThumbUrl": "https://picsum.photos/seed/31/200/101",
+      "imageUrl": "https://picsum.photos/seed/31/1267/642",
+      "_createdDate": 1669393855369,
+      "title": "Porro velit qui et totam tempora repellat quod voluptas.",
+      "dataTags": ["thisWeek"],
+      "id": "31",
+      "ratio": 1.9735202492211839,
+      "tags": ["friend", "geek", "people", "team"],
+      "_modifiedDate": 1669393855369,
+      "index": 26
+    },
+    "32": {
+      "ratio": 1.2950138504155124,
+      "id": "32",
+      "dataTags": ["thisWeek"],
+      "_modifiedDate": 1669393854369,
+      "imageThumbUrl": "https://picsum.photos/seed/32/200/154",
+      "title": "Distinctio iure nostrum voluptas qui qui necessitatibus quam tempora voluptas.",
+      "tags": ["nature", "geek"],
+      "_createdDate": 1669393854369,
+      "imageUrl": "https://picsum.photos/seed/32/935/722",
+      "index": 27
+    },
+    "33": {
+      "tags": ["nature"],
+      "title": "Quibusdam omnis voluptatem eveniet.",
+      "_createdDate": 1669393853369,
+      "_modifiedDate": 1669393853369,
+      "imageThumbUrl": "https://picsum.photos/seed/33/200/128",
+      "imageUrl": "https://picsum.photos/seed/33/1431/919",
+      "ratio": 1.557127312295974,
+      "dataTags": ["thisWeek"],
+      "id": "33",
+      "index": 28
+    },
+    "34": {
+      "imageUrl": "https://picsum.photos/seed/34/1059/727",
+      "ratio": 1.4566712517193947,
+      "_modifiedDate": 1669393852369,
+      "_createdDate": 1669393852369,
+      "imageThumbUrl": "https://picsum.photos/seed/34/200/137",
+      "title": "Ut autem qui cum quis.",
+      "dataTags": ["thisWeek"],
+      "tags": ["friend", "people", "geek"],
+      "id": "34",
+      "index": 29
+    },
+    "35": {
+      "_createdDate": 1669393851369,
+      "title": "Amet quia mollitia vitae aperiam enim.",
+      "id": "35",
+      "_modifiedDate": 1669393851369,
+      "tags": ["friend", "people", "nature"],
+      "ratio": 1.2627737226277371,
+      "imageThumbUrl": "https://picsum.photos/seed/35/200/158",
+      "imageUrl": "https://picsum.photos/seed/35/1211/959",
+      "dataTags": ["thisWeek"],
+      "index": 30
+    },
+    "36": {
+      "title": "Omnis facere sit.",
+      "imageThumbUrl": "https://picsum.photos/seed/36/200/100",
+      "_modifiedDate": 1669393850369,
+      "tags": ["geek", "people", "team", "background", "friend", "nature"],
+      "ratio": 2.001418439716312,
+      "id": "36",
+      "imageUrl": "https://picsum.photos/seed/36/1411/705",
+      "_createdDate": 1669393850369,
+      "dataTags": ["thisWeek"],
+      "index": 31
+    },
+    "37": {
+      "_modifiedDate": 1669393849369,
+      "id": "37",
+      "imageThumbUrl": "https://picsum.photos/seed/37/200/79",
+      "imageUrl": "https://picsum.photos/seed/37/1266/502",
+      "tags": ["geek", "people", "background", "friend", "team", "nature"],
+      "title": "Asperiores consequuntur nesciunt sunt rerum animi.",
+      "dataTags": ["thisWeek"],
+      "ratio": 2.5219123505976095,
+      "_createdDate": 1669393849369,
+      "index": 32
+    },
+    "38": {
+      "tags": ["team"],
+      "_modifiedDate": 1669393848369,
+      "ratio": 1.0535117056856187,
+      "imageUrl": "https://picsum.photos/seed/38/1260/1196",
+      "id": "38",
+      "dataTags": ["thisWeek"],
+      "title": "Vitae eius perspiciatis dolor in maxime corrupti quae.",
+      "imageThumbUrl": "https://picsum.photos/seed/38/200/190",
+      "_createdDate": 1669393848369,
+      "index": 33
+    },
+    "39": {
+      "ratio": 1.2296918767507004,
+      "imageUrl": "https://picsum.photos/seed/39/878/714",
+      "id": "39",
+      "dataTags": ["thisWeek"],
+      "title": "Ut quia nam debitis voluptatem vitae natus.",
+      "imageThumbUrl": "https://picsum.photos/seed/39/200/163",
+      "_modifiedDate": 1669393847369,
+      "_createdDate": 1669393847369,
+      "tags": ["team", "people", "background", "nature", "geek", "friend"],
+      "index": 34
+    },
+    "40": {
+      "_createdDate": 1669393846369,
+      "_modifiedDate": 1669393846369,
+      "imageUrl": "https://picsum.photos/seed/40/1485/854",
+      "id": "40",
+      "ratio": 1.7388758782201406,
+      "title": "Assumenda eaque recusandae dignissimos consequatur ut eveniet est temporibus blanditiis.",
+      "imageThumbUrl": "https://picsum.photos/seed/40/200/115",
+      "tags": ["geek", "nature", "people", "background", "team", "friend"],
+      "dataTags": ["thisWeek"],
+      "index": 36
+    },
+    "41": {
+      "tags": ["nature", "people", "background", "geek", "team", "friend"],
+      "id": "41",
+      "imageThumbUrl": "https://picsum.photos/seed/41/200/78",
+      "title": "Aut occaecati praesentium perferendis.",
+      "imageUrl": "https://picsum.photos/seed/41/1361/532",
+      "_modifiedDate": 1669393845370,
+      "dataTags": ["thisWeek"],
+      "_createdDate": 1669393845370,
+      "ratio": 2.558270676691729,
+      "index": 37
+    },
+    "42": {
+      "tags": ["people", "nature", "friend"],
+      "_modifiedDate": 1669393844370,
+      "_createdDate": 1669393844370,
+      "ratio": 1.229899497487437,
+      "title": "Qui omnis alias qui error ex aliquid provident dignissimos.",
+      "imageThumbUrl": "https://picsum.photos/seed/42/200/163",
+      "imageUrl": "https://picsum.photos/seed/42/979/796",
+      "dataTags": ["thisWeek"],
+      "id": "42",
+      "index": 38
+    },
+    "43": {
+      "imageThumbUrl": "https://picsum.photos/seed/43/200/177",
+      "_createdDate": 1669393843370,
+      "ratio": 1.1305182341650672,
+      "title": "Et eum et corrupti quos.",
+      "dataTags": ["thisWeek"],
+      "tags": ["friend", "nature", "people", "geek"],
+      "id": "43",
+      "_modifiedDate": 1669393843370,
+      "imageUrl": "https://picsum.photos/seed/43/1178/1042",
+      "index": 39
+    },
+    "44": {
+      "ratio": 0.9467889908256881,
+      "_createdDate": 1669393842370,
+      "id": "44",
+      "imageUrl": "https://picsum.photos/seed/44/1032/1090",
+      "title": "Qui vitae amet rerum et quos mollitia cumque quam.",
+      "_modifiedDate": 1669393842370,
+      "imageThumbUrl": "https://picsum.photos/seed/44/200/211",
+      "dataTags": ["thisWeek"],
+      "tags": ["friend", "team", "geek"],
+      "index": 40
+    },
+    "45": {
+      "title": "Placeat tenetur omnis ipsum ut ut aperiam molestiae deleniti sit.",
+      "tags": ["friend", "people"],
+      "imageThumbUrl": "https://picsum.photos/seed/45/200/113",
+      "_modifiedDate": 1669393841370,
+      "id": "45",
+      "ratio": 1.7669565217391305,
+      "dataTags": ["thisWeek"],
+      "imageUrl": "https://picsum.photos/seed/45/1016/575",
+      "_createdDate": 1669393841370,
+      "index": 41
+    },
+    "46": {
+      "imageThumbUrl": "https://picsum.photos/seed/46/200/201",
+      "ratio": 0.9933333333333333,
+      "imageUrl": "https://picsum.photos/seed/46/894/900",
+      "dataTags": ["thisWeek"],
+      "id": "46",
+      "_modifiedDate": 1669393840370,
+      "tags": ["friend", "geek", "people", "background"],
+      "_createdDate": 1669393840370,
+      "title": "Facere velit commodi quia.",
+      "index": 42
+    },
+    "47": {
+      "_createdDate": 1669393839370,
+      "ratio": 0.9852104664391353,
+      "dataTags": ["thisWeek"],
+      "imageThumbUrl": "https://picsum.photos/seed/47/200/203",
+      "tags": ["background", "friend", "geek", "nature", "people", "team"],
+      "title": "Eveniet explicabo unde.",
+      "imageUrl": "https://picsum.photos/seed/47/866/879",
+      "_modifiedDate": 1669393839370,
+      "id": "47",
+      "index": 43
+    },
+    "48": {
+      "id": "48",
+      "_modifiedDate": 1669393838370,
+      "tags": ["people", "friend", "geek"],
+      "dataTags": ["thisWeek"],
+      "imageUrl": "https://picsum.photos/seed/48/1561/1094",
+      "_createdDate": 1669393838370,
+      "title": "Ut voluptates non repellat qui tenetur.",
+      "imageThumbUrl": "https://picsum.photos/seed/48/200/140",
+      "ratio": 1.4268738574040218,
+      "index": 44
+    },
+    "49": {
+      "dataTags": ["thisWeek"],
+      "ratio": 1.4020797227036395,
+      "title": "Quis laborum vitae et.",
+      "tags": ["people", "nature", "background", "geek"],
+      "imageUrl": "https://picsum.photos/seed/49/809/577",
+      "id": "49",
+      "imageThumbUrl": "https://picsum.photos/seed/49/200/143",
+      "_createdDate": 1669393837370,
+      "_modifiedDate": 1669393837370,
+      "index": 45
+    },
+    "50": {
+      "_createdDate": 1669393836370,
+      "title": "Quaerat dolorem ut modi.",
+      "tags": ["people", "geek", "friend"],
+      "id": "50",
+      "ratio": 1.33769322235434,
+      "imageUrl": "https://picsum.photos/seed/50/1125/841",
+      "imageThumbUrl": "https://picsum.photos/seed/50/200/150",
+      "dataTags": ["thisWeek"],
+      "_modifiedDate": 1669393836370,
+      "index": 47
+    },
+    "51": {
+      "id": "51",
+      "_modifiedDate": 1669393835370,
+      "imageThumbUrl": "https://picsum.photos/seed/51/200/155",
+      "tags": ["team"],
+      "_createdDate": 1669393835370,
+      "dataTags": ["thisWeek"],
+      "ratio": 1.2869757174392935,
+      "title": "Laborum eos perferendis nesciunt ex sit fuga eum harum.",
+      "imageUrl": "https://picsum.photos/seed/51/1166/906",
+      "index": 48
+    },
+    "52": {
+      "_createdDate": 1669393834370,
+      "id": "52",
+      "imageThumbUrl": "https://picsum.photos/seed/52/200/144",
+      "_modifiedDate": 1669393834370,
+      "dataTags": ["thisWeek"],
+      "ratio": 1.387736699729486,
+      "title": "Sit error dolor sed et et quasi repellat deleniti tenetur.",
+      "imageUrl": "https://picsum.photos/seed/52/1539/1109",
+      "tags": ["friend", "geek", "people", "team"],
+      "index": 49
+    },
+    "53": {
+      "ratio": 1.0632295719844358,
+      "dataTags": ["thisWeek"],
+      "imageThumbUrl": "https://picsum.photos/seed/53/200/188",
+      "_modifiedDate": 1669393833370,
+      "title": "Quisquam molestiae qui dolor vel occaecati rerum eum.",
+      "id": "53",
+      "_createdDate": 1669393833370,
+      "tags": ["people", "team"],
+      "imageUrl": "https://picsum.photos/seed/53/1093/1028",
+      "index": 50
+    },
+    "54": {
+      "_createdDate": 1669393832370,
+      "ratio": 1.1529294935451837,
+      "title": "Et aspernatur eos eius natus quaerat nobis.",
+      "imageThumbUrl": "https://picsum.photos/seed/54/200/173",
+      "dataTags": ["thisWeek"],
+      "tags": ["geek", "team"],
+      "imageUrl": "https://picsum.photos/seed/54/1161/1007",
+      "id": "54",
+      "_modifiedDate": 1669393832370,
+      "index": 51
+    },
+    "55": {
+      "id": "55",
+      "tags": ["people"],
+      "_createdDate": 1669393831370,
+      "ratio": 1.5862068965517242,
+      "dataTags": ["thisWeek"],
+      "title": "Est sunt quisquam id ipsam commodi.",
+      "imageThumbUrl": "https://picsum.photos/seed/55/200/126",
+      "_modifiedDate": 1669393831370,
+      "imageUrl": "https://picsum.photos/seed/55/920/580",
+      "index": 52
+    },
+    "56": {
+      "title": "Quia illum maxime doloribus quo.",
+      "ratio": 1.1590594744121716,
+      "imageUrl": "https://picsum.photos/seed/56/838/723",
+      "tags": ["nature", "friend", "team", "people", "geek"],
+      "dataTags": ["thisWeek"],
+      "_createdDate": 1669393830370,
+      "_modifiedDate": 1669393830370,
+      "id": "56",
+      "imageThumbUrl": "https://picsum.photos/seed/56/200/173",
+      "index": 53
+    },
+    "57": {
+      "tags": ["people", "background", "geek", "nature"],
+      "_createdDate": 1669393829370,
+      "title": "Cupiditate molestias fuga ut qui earum asperiores voluptates.",
+      "imageThumbUrl": "https://picsum.photos/seed/57/200/90",
+      "ratio": 2.2317757009345796,
+      "dataTags": ["thisWeek"],
+      "imageUrl": "https://picsum.photos/seed/57/1194/535",
+      "_modifiedDate": 1669393829370,
+      "id": "57",
+      "index": 54
+    },
+    "58": {
+      "_createdDate": 1669393828370,
+      "ratio": 1.0661959399823477,
+      "dataTags": ["thisWeek"],
+      "title": "Ducimus sint sit dignissimos in dolores pariatur est.",
+      "_modifiedDate": 1669393828370,
+      "tags": ["background", "friend", "nature"],
+      "id": "58",
+      "imageThumbUrl": "https://picsum.photos/seed/58/200/188",
+      "imageUrl": "https://picsum.photos/seed/58/1208/1133",
+      "index": 55
+    },
+    "59": {
+      "id": "59",
+      "_createdDate": 1669393827370,
+      "tags": ["team", "people", "friend", "geek", "nature", "background"],
+      "ratio": 1.1034063260340632,
+      "dataTags": ["thisWeek"],
+      "imageUrl": "https://picsum.photos/seed/59/907/822",
+      "title": "Aut hic dolore.",
+      "imageThumbUrl": "https://picsum.photos/seed/59/200/181",
+      "_modifiedDate": 1669393827370,
+      "index": 56
+    },
+    "60": {
+      "tags": ["friend", "team"],
+      "title": "Nihil inventore voluptatem sunt rerum blanditiis eos est neque officia.",
+      "_modifiedDate": 1669393826370,
+      "imageThumbUrl": "https://picsum.photos/seed/60/200/154",
+      "imageUrl": "https://picsum.photos/seed/60/1137/876",
+      "ratio": 1.297945205479452,
+      "dataTags": ["thisWeek"],
+      "_createdDate": 1669393826370,
+      "id": "60",
+      "index": 58
+    },
+    "61": {
+      "dataTags": ["thisWeek"],
+      "ratio": 2.3835616438356166,
+      "_modifiedDate": 1669393825370,
+      "tags": ["people"],
+      "id": "61",
+      "imageUrl": "https://picsum.photos/seed/61/1392/584",
+      "title": "Maxime ratione necessitatibus adipisci.",
+      "imageThumbUrl": "https://picsum.photos/seed/61/200/84",
+      "_createdDate": 1669393825370,
+      "index": 59
+    },
+    "62": {
+      "ratio": 2.130281690140845,
+      "_modifiedDate": 1669393824370,
+      "_createdDate": 1669393824370,
+      "imageUrl": "https://picsum.photos/seed/62/1210/568",
+      "dataTags": ["thisWeek"],
+      "imageThumbUrl": "https://picsum.photos/seed/62/200/94",
+      "title": "Consequatur pariatur asperiores.",
+      "id": "62",
+      "tags": ["nature", "friend"],
+      "index": 60
+    },
+    "63": {
+      "title": "Ex cumque vel et.",
+      "id": "63",
+      "imageUrl": "https://picsum.photos/seed/63/973/504",
+      "dataTags": ["thisWeek"],
+      "_modifiedDate": 1669393823370,
+      "ratio": 1.9305555555555556,
+      "_createdDate": 1669393823370,
+      "tags": ["people", "background"],
+      "imageThumbUrl": "https://picsum.photos/seed/63/200/104",
+      "index": 61
+    },
+    "64": {
+      "tags": ["friend", "geek", "people", "team", "background"],
+      "id": "64",
+      "_createdDate": 1669393822370,
+      "dataTags": ["thisWeek"],
+      "ratio": 1.1696750902527075,
+      "_modifiedDate": 1669393822370,
+      "title": "Consequatur qui esse.",
+      "imageThumbUrl": "https://picsum.photos/seed/64/200/171",
+      "imageUrl": "https://picsum.photos/seed/64/1296/1108",
+      "index": 62
+    },
+    "65": {
+      "tags": ["friend", "people", "geek"],
+      "imageUrl": "https://picsum.photos/seed/65/1038/1198",
+      "imageThumbUrl": "https://picsum.photos/seed/65/200/231",
+      "ratio": 0.8664440734557596,
+      "dataTags": ["thisWeek"],
+      "title": "Doloremque possimus ut ipsum sapiente deleniti et sunt.",
+      "_createdDate": 1669393821370,
+      "_modifiedDate": 1669393821370,
+      "id": "65",
+      "index": 63
+    },
+    "66": {
+      "title": "Quasi sint in facilis eum aperiam asperiores.",
+      "ratio": 1.6716196136701338,
+      "imageThumbUrl": "https://picsum.photos/seed/66/200/120",
+      "dataTags": ["thisWeek"],
+      "tags": ["team"],
+      "_modifiedDate": 1669393820370,
+      "id": "66",
+      "imageUrl": "https://picsum.photos/seed/66/1125/673",
+      "_createdDate": 1669393820370,
+      "index": 64
+    },
+    "67": {
+      "tags": ["team", "friend", "background"],
+      "_modifiedDate": 1669393819370,
+      "imageUrl": "https://picsum.photos/seed/67/977/1102",
+      "dataTags": ["thisWeek"],
+      "_createdDate": 1669393819370,
+      "ratio": 0.8865698729582577,
+      "title": "Asperiores voluptatem et nulla iste.",
+      "imageThumbUrl": "https://picsum.photos/seed/67/200/226",
+      "id": "67",
+      "index": 65
+    },
+    "68": {
+      "_createdDate": 1669393818370,
+      "imageUrl": "https://picsum.photos/seed/68/841/638",
+      "_modifiedDate": 1669393818370,
+      "ratio": 1.3181818181818181,
+      "id": "68",
+      "dataTags": ["thisWeek"],
+      "title": "Ut est quaerat numquam numquam ut et porro sapiente.",
+      "imageThumbUrl": "https://picsum.photos/seed/68/200/152",
+      "tags": ["geek", "people", "friend", "background", "team", "nature"],
+      "index": 66
+    },
+    "69": {
+      "imageThumbUrl": "https://picsum.photos/seed/69/200/77",
+      "title": "Consequatur nam quas qui sint voluptatem ut at accusamus.",
+      "_createdDate": 1669393817370,
+      "ratio": 2.5847299813780262,
+      "dataTags": ["thisWeek"],
+      "_modifiedDate": 1669393817370,
+      "tags": ["team"],
+      "id": "69",
+      "imageUrl": "https://picsum.photos/seed/69/1388/537",
+      "index": 67
+    },
+    "70": {
+      "tags": ["geek", "background", "nature", "team"],
+      "id": "70",
+      "ratio": 1.878,
+      "_modifiedDate": 1669393816370,
+      "_createdDate": 1669393816370,
+      "title": "In numquam dolores.",
+      "dataTags": ["thisWeek"],
+      "imageUrl": "https://picsum.photos/seed/70/939/500",
+      "imageThumbUrl": "https://picsum.photos/seed/70/200/106",
+      "index": 69
+    },
+    "71": {
+      "dataTags": ["thisWeek"],
+      "imageUrl": "https://picsum.photos/seed/71/1469/764",
+      "_createdDate": 1669393815370,
+      "id": "71",
+      "imageThumbUrl": "https://picsum.photos/seed/71/200/104",
+      "_modifiedDate": 1669393815370,
+      "title": "Dolorem voluptate perspiciatis recusandae sapiente magni culpa neque porro.",
+      "tags": ["friend", "nature", "people", "team", "geek"],
+      "ratio": 1.9227748691099475,
+      "index": 70
+    },
+    "72": {
+      "title": "Repudiandae ut quam quibusdam facere.",
+      "imageThumbUrl": "https://picsum.photos/seed/72/200/118",
+      "ratio": 1.6986301369863013,
+      "id": "72",
+      "_modifiedDate": 1669393814370,
+      "tags": ["geek", "nature", "people"],
+      "imageUrl": "https://picsum.photos/seed/72/1364/803",
+      "_createdDate": 1669393814370,
+      "dataTags": ["thisWeek"],
+      "index": 71
+    },
+    "73": {
+      "dataTags": ["thisWeek"],
+      "id": "73",
+      "tags": ["friend", "background"],
+      "_modifiedDate": 1669393813370,
+      "ratio": 0.7618629173989455,
+      "imageUrl": "https://picsum.photos/seed/73/867/1138",
+      "_createdDate": 1669393813370,
+      "title": "Ipsa rerum tempore ut.",
+      "imageThumbUrl": "https://picsum.photos/seed/73/200/263",
+      "index": 72
+    },
+    "74": {
+      "_createdDate": 1669393812370,
+      "imageUrl": "https://picsum.photos/seed/74/1538/1154",
+      "_modifiedDate": 1669393812370,
+      "tags": ["people"],
+      "imageThumbUrl": "https://picsum.photos/seed/74/200/150",
+      "title": "Corporis expedita voluptatibus non.",
+      "ratio": 1.3327556325823224,
+      "id": "74",
+      "dataTags": ["thisWeek"],
+      "index": 73
+    },
+    "75": {
+      "tags": ["people", "background", "nature"],
+      "imageUrl": "https://picsum.photos/seed/75/1357/772",
+      "_createdDate": 1669393811370,
+      "ratio": 1.7577720207253886,
+      "dataTags": ["thisWeek"],
+      "id": "75",
+      "_modifiedDate": 1669393811370,
+      "imageThumbUrl": "https://picsum.photos/seed/75/200/114",
+      "title": "Vel aut animi sint non dolores.",
+      "index": 74
+    },
+    "76": {
+      "imageUrl": "https://picsum.photos/seed/76/1475/993",
+      "imageThumbUrl": "https://picsum.photos/seed/76/200/135",
+      "_createdDate": 1669393810370,
+      "_modifiedDate": 1669393810370,
+      "dataTags": ["thisWeek"],
+      "ratio": 1.48539778449144,
+      "title": "Sint qui sed rerum et.",
+      "id": "76",
+      "tags": ["team", "friend", "background", "people"],
+      "index": 75
+    },
+    "77": {
+      "id": "77",
+      "tags": ["nature", "team", "geek"],
+      "imageThumbUrl": "https://picsum.photos/seed/77/200/142",
+      "_createdDate": 1669393809370,
+      "dataTags": ["thisWeek"],
+      "_modifiedDate": 1669393809370,
+      "imageUrl": "https://picsum.photos/seed/77/1363/966",
+      "title": "Voluptas repellat sint dolor sint sequi vero veniam aut quasi.",
+      "ratio": 1.4109730848861284,
+      "index": 76
+    },
+    "78": {
+      "dataTags": ["thisWeek"],
+      "ratio": 1.5780856423173804,
+      "title": "Sint iusto unde rem dolor.",
+      "imageThumbUrl": "https://picsum.photos/seed/78/200/127",
+      "imageUrl": "https://picsum.photos/seed/78/1253/794",
+      "_modifiedDate": 1669393808370,
+      "_createdDate": 1669393808370,
+      "tags": ["team", "background", "nature"],
+      "id": "78",
+      "index": 77
+    },
+    "79": {
+      "dataTags": ["thisWeek"],
+      "imageUrl": "https://picsum.photos/seed/79/1526/1078",
+      "id": "79",
+      "ratio": 1.4155844155844155,
+      "tags": ["background", "team"],
+      "_modifiedDate": 1669393807370,
+      "imageThumbUrl": "https://picsum.photos/seed/79/200/141",
+      "_createdDate": 1669393807370,
+      "title": "Omnis tenetur ullam voluptatem.",
+      "index": 78
+    },
+    "80": {
+      "imageThumbUrl": "https://picsum.photos/seed/80/200/247",
+      "tags": ["friend", "background", "nature"],
+      "dataTags": ["thisWeek"],
+      "ratio": 0.8106565176022835,
+      "imageUrl": "https://picsum.photos/seed/80/852/1051",
+      "_modifiedDate": 1669393806370,
+      "id": "80",
+      "title": "Ab unde possimus aut autem ducimus enim.",
+      "_createdDate": 1669393806370,
+      "index": 80
+    },
+    "81": {
+      "_createdDate": 1669393805370,
+      "tags": ["friend"],
+      "id": "81",
+      "imageThumbUrl": "https://picsum.photos/seed/81/200/100",
+      "ratio": 2.004538577912254,
+      "title": "Voluptate ducimus eligendi perferendis maxime provident quia sed.",
+      "_modifiedDate": 1669393805370,
+      "imageUrl": "https://picsum.photos/seed/81/1325/661",
+      "dataTags": ["thisWeek"],
+      "index": 81
+    },
+    "82": {
+      "tags": ["nature", "geek", "people", "team", "background"],
+      "title": "Aut qui praesentium.",
+      "id": "82",
+      "imageUrl": "https://picsum.photos/seed/82/1565/1019",
+      "dataTags": ["thisWeek"],
+      "_modifiedDate": 1669393804370,
+      "_createdDate": 1669393804370,
+      "imageThumbUrl": "https://picsum.photos/seed/82/200/130",
+      "ratio": 1.535819430814524,
+      "index": 82
+    },
+    "83": {
+      "title": "Id quasi aliquid ab unde.",
+      "id": "83",
+      "imageUrl": "https://picsum.photos/seed/83/1143/891",
+      "tags": ["geek", "people", "nature"],
+      "_modifiedDate": 1669393803370,
+      "imageThumbUrl": "https://picsum.photos/seed/83/200/156",
+      "_createdDate": 1669393803370,
+      "dataTags": ["thisWeek"],
+      "ratio": 1.2828282828282829,
+      "index": 84
+    },
+    "84": {
+      "_createdDate": 1669393802370,
+      "imageThumbUrl": "https://picsum.photos/seed/84/200/227",
+      "imageUrl": "https://picsum.photos/seed/84/835/946",
+      "title": "Aut pariatur cum odio.",
+      "_modifiedDate": 1669393802370,
+      "ratio": 0.8826638477801269,
+      "id": "84",
+      "tags": ["people", "background", "team", "friend", "geek", "nature"],
+      "dataTags": ["thisWeek"],
+      "index": 85
+    },
+    "85": {
+      "dataTags": ["thisWeek"],
+      "tags": ["people", "nature", "team", "geek"],
+      "title": "Aut aut adipisci vel.",
+      "imageThumbUrl": "https://picsum.photos/seed/85/200/121",
+      "ratio": 1.6576576576576576,
+      "_modifiedDate": 1669393801370,
+      "_createdDate": 1669393801370,
+      "imageUrl": "https://picsum.photos/seed/85/920/555",
+      "id": "85",
+      "index": 86
+    },
+    "86": {
+      "_modifiedDate": 1669393800370,
+      "tags": ["background", "nature", "geek", "people"],
+      "imageUrl": "https://picsum.photos/seed/86/893/836",
+      "id": "86",
+      "title": "Eaque eius tempora est nam.",
+      "imageThumbUrl": "https://picsum.photos/seed/86/200/187",
+      "_createdDate": 1669393800370,
+      "ratio": 1.0681818181818181,
+      "dataTags": ["thisWeek"],
+      "index": 88
+    },
+    "87": {
+      "dataTags": ["thisWeek"],
+      "_createdDate": 1669393799370,
+      "_modifiedDate": 1669393799370,
+      "imageUrl": "https://picsum.photos/seed/87/967/893",
+      "tags": ["people", "friend", "geek", "nature", "background"],
+      "ratio": 1.0828667413213886,
+      "title": "Magni ipsam omnis inventore distinctio enim sunt id.",
+      "id": "87",
+      "imageThumbUrl": "https://picsum.photos/seed/87/200/185",
+      "index": 89
+    },
+    "88": {
+      "dataTags": ["thisWeek"],
+      "imageThumbUrl": "https://picsum.photos/seed/88/200/191",
+      "imageUrl": "https://picsum.photos/seed/88/1169/1115",
+      "id": "88",
+      "ratio": 1.0484304932735427,
+      "title": "Dolore quod eligendi exercitationem facilis distinctio.",
+      "_createdDate": 1669393798370,
+      "tags": ["people", "team", "friend", "geek", "nature"],
+      "_modifiedDate": 1669393798370,
+      "index": 90
+    },
+    "89": {
+      "dataTags": ["thisWeek"],
+      "id": "89",
+      "ratio": 0.9548793284365162,
+      "_modifiedDate": 1669393797370,
+      "imageUrl": "https://picsum.photos/seed/89/910/953",
+      "tags": ["friend", "background", "geek", "nature", "people"],
+      "title": "Porro voluptates rerum.",
+      "imageThumbUrl": "https://picsum.photos/seed/89/200/209",
+      "_createdDate": 1669393797370,
+      "index": 91
+    },
+    "90": {
+      "tags": ["nature", "friend", "team", "background", "geek"],
+      "_modifiedDate": 1669393796370,
+      "dataTags": ["thisWeek"],
+      "id": "90",
+      "imageUrl": "https://picsum.photos/seed/90/1312/677",
+      "ratio": 1.9379615952732645,
+      "title": "Nobis quia dolorem molestiae et autem placeat dolorem consequatur explicabo.",
+      "imageThumbUrl": "https://picsum.photos/seed/90/200/103",
+      "_createdDate": 1669393796370,
+      "index": 93
+    },
+    "91": {
+      "title": "Officiis doloremque et molestias.",
+      "imageThumbUrl": "https://picsum.photos/seed/91/200/117",
+      "dataTags": ["thisWeek"],
+      "imageUrl": "https://picsum.photos/seed/91/1212/708",
+      "id": "91",
+      "_createdDate": 1669393795370,
+      "_modifiedDate": 1669393795370,
+      "ratio": 1.7118644067796611,
+      "tags": ["friend", "team", "people"],
+      "index": 94
+    },
+    "92": {
+      "dataTags": ["thisWeek"],
+      "_modifiedDate": 1669393794370,
+      "imageUrl": "https://picsum.photos/seed/92/1082/579",
+      "title": "Soluta aspernatur asperiores quia accusamus iste provident laudantium fuga.",
+      "id": "92",
+      "_createdDate": 1669393794370,
+      "imageThumbUrl": "https://picsum.photos/seed/92/200/107",
+      "ratio": 1.8687392055267702,
+      "tags": ["team", "background", "people"],
+      "index": 95
+    },
+    "93": {
+      "_createdDate": 1669393793370,
+      "tags": ["people"],
+      "dataTags": ["thisWeek"],
+      "ratio": 0.6997389033942559,
+      "title": "Repellat iure tenetur qui voluptatum.",
+      "_modifiedDate": 1669393793370,
+      "imageUrl": "https://picsum.photos/seed/93/804/1149",
+      "id": "93",
+      "imageThumbUrl": "https://picsum.photos/seed/93/200/286",
+      "index": 96
+    },
+    "94": {
+      "tags": ["background"],
+      "imageThumbUrl": "https://picsum.photos/seed/94/200/170",
+      "_createdDate": 1669393792371,
+      "title": "Eius ut maxime impedit nihil quis.",
+      "dataTags": ["thisWeek"],
+      "imageUrl": "https://picsum.photos/seed/94/1110/946",
+      "id": "94",
+      "_modifiedDate": 1669393792371,
+      "ratio": 1.1733615221987315,
+      "index": 97
+    },
+    "95": {
+      "tags": ["background", "team", "nature", "geek", "people", "friend"],
+      "imageThumbUrl": "https://picsum.photos/seed/95/200/80",
+      "dataTags": ["thisWeek"],
+      "_modifiedDate": 1669393791371,
+      "id": "95",
+      "title": "Qui aut aliquid id in inventore corrupti.",
+      "_createdDate": 1669393791371,
+      "ratio": 2.494718309859155,
+      "imageUrl": "https://picsum.photos/seed/95/1417/568",
+      "index": 98
+    },
+    "96": {
+      "id": "96",
+      "dataTags": ["thisWeek"],
+      "_modifiedDate": 1669393790371,
+      "_createdDate": 1669393790371,
+      "imageThumbUrl": "https://picsum.photos/seed/96/200/152",
+      "title": "Quia voluptate molestias quam adipisci illo ipsam perspiciatis.",
+      "imageUrl": "https://picsum.photos/seed/96/1230/932",
+      "ratio": 1.3197424892703862,
+      "tags": ["background", "team", "people"],
+      "index": 99
+    },
+    "97": {
+      "_modifiedDate": 1669393789371,
+      "imageUrl": "https://picsum.photos/seed/97/1328/653",
+      "tags": ["friend", "background", "team"],
+      "imageThumbUrl": "https://picsum.photos/seed/97/200/98",
+      "_createdDate": 1669393789371,
+      "title": "Velit magni itaque.",
+      "ratio": 2.0336906584992342,
+      "id": "97",
+      "dataTags": ["thisWeek"],
+      "index": 100
+    },
+    "98": {
+      "ratio": 2.5462633451957295,
+      "_createdDate": 1669393788371,
+      "id": "98",
+      "dataTags": ["thisWeek"],
+      "imageUrl": "https://picsum.photos/seed/98/1431/562",
+      "title": "Dignissimos dolorem ut omnis sequi nobis saepe.",
+      "imageThumbUrl": "https://picsum.photos/seed/98/200/79",
+      "_modifiedDate": 1669393788371,
+      "tags": ["people", "background", "friend", "nature"],
+      "index": 101
+    },
+    "99": {
+      "ratio": 1.0707666385846673,
+      "imageThumbUrl": "https://picsum.photos/seed/99/200/187",
+      "title": "A suscipit praesentium.",
+      "_createdDate": 1669393787371,
+      "dataTags": ["thisWeek"],
+      "imageUrl": "https://picsum.photos/seed/99/1271/1187",
+      "_modifiedDate": 1669393787371,
+      "tags": ["friend", "people", "nature", "background", "team", "geek"],
+      "id": "99",
+      "index": 102
+    },
+    "100": {
+      "tags": ["people", "team", "friend", "background"],
+      "dataTags": ["thisWeek"],
+      "title": "Beatae consequatur rerum.",
+      "id": "100",
+      "_createdDate": 1669393786371,
+      "imageUrl": "https://picsum.photos/seed/100/1251/1032",
+      "_modifiedDate": 1669393786371,
+      "ratio": 1.2122093023255813,
+      "imageThumbUrl": "https://picsum.photos/seed/100/200/165",
+      "index": 2
+    },
+    "10bfd40d": {
+      "title": "verygood",
+      "imageThumbUrl": "https://firebasestorage.googleapis.com/v0/b/life-b033c.appspot.com/o/libraryImages%2F10bfd40d_thumb.webp?alt=media",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/life-b033c.appspot.com/o/libraryImages%2F10bfd40d.webp?alt=media",
+      "ratio": 1.841726618705036,
+      "_createdDate": 1669393345686,
+      "tags": ["good"],
+      "_modifiedDate": 1669393345686,
+      "id": "10bfd40d",
+      "index": 3
+    },
+    "8212db8f": {
+      "_createdDate": 1669388172237,
+      "title": "Nice",
+      "id": "8212db8f",
+      "ratio": 1.841726618705036,
+      "_modifiedDate": 1669388172237,
+      "tags": ["good"],
+      "imageThumbUrl": "https://firebasestorage.googleapis.com/v0/b/life-b033c.appspot.com/o/libraryImages%2F8212db8f_thumb.webp?alt=media",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/life-b033c.appspot.com/o/libraryImages%2F8212db8f.webp?alt=media",
+      "index": 83
+    },
+    "855d6f1f": {
+      "_modifiedDate": 1669409938381,
+      "imageThumbUrl": "https://firebasestorage.googleapis.com/v0/b/life-b033c.appspot.com/o/libraryImages%2F855d6f1f_thumb.webp?alt=media",
+      "id": "855d6f1f",
+      "ratio": 0.6232961586121437,
+      "title": "screenshot",
+      "_createdDate": 1669409938381,
+      "tags": ["screenshot"],
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/life-b033c.appspot.com/o/libraryImages%2F855d6f1f.webp?alt=media",
+      "index": 87
+    },
+    "b70205de": {
+      "id": "b70205de",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/life-b033c.appspot.com/o/libraryImages%2Fb70205de.webp?alt=media",
+      "_createdDate": 1669387569879,
+      "tags": ["tag"],
+      "_modifiedDate": 1669387569879,
+      "ratio": 1.841726618705036,
+      "title": "good",
+      "imageThumbUrl": "https://firebasestorage.googleapis.com/v0/b/life-b033c.appspot.com/o/libraryImages%2Fb70205de_thumb.webp?alt=media",
+      "index": 103
+    },
+    "cc976c4b": {
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/life-b033c.appspot.com/o/libraryImages%2Fcc976c4b.webp?alt=media",
+      "_createdDate": 1669393925957,
+      "_modifiedDate": 1669393925957,
+      "id": "cc976c4b",
+      "tags": ["wow"],
+      "title": "good",
+      "ratio": 1.841726618705036,
+      "imageThumbUrl": "https://firebasestorage.googleapis.com/v0/b/life-b033c.appspot.com/o/libraryImages%2Fcc976c4b_thumb.webp?alt=media",
+      "index": 104
+    }
+  },
+  "libraryWidgets": {
+    "com.usegdi.blocks.apps-jf84j": {
+      "id": "com.usegdi.blocks.apps-jf84j",
+      "name": "apps-jf84j",
+      "description": "",
+      "params": {
+        "id": "com.usegdi.blocks.apps-jf84j",
+        "schema": {
+          "strings": {
+            "header": {
+              "fieldType": "text",
+              "isRequired": true,
+              "order": 1
+            }
+          },
+          "colors": {},
+          "extra": {
+            "appsDatasetId": {
+              "fieldType": "dataset",
+              "isRequired": true,
+              "order": 0
+            }
+          }
+        }
+      },
+      "sampleData": {
+        "normal": {
+          "id": "normal",
+          "strings": {
+            "header": "Apps"
+          },
+          "colors": {},
+          "extra": {
+            "appsDatasetId": "apps"
+          }
+        }
+      },
+      "dimensions": {
+        "normal": {
+          "desktop": {
+            "width": 1000,
+            "height": 1097.3958333333333,
+            "ratio": 0.9112482202183199
+          },
+          "mobile": {
+            "width": 500,
+            "height": 877.9166666666667,
+            "ratio": 0.5695301376364499
+          }
+        }
+      },
+      "screenshots": {
+        "normal": {
+          "desktop": {
+            "large": {
+              "width": 1000,
+              "height": 1097.3958333333333,
+              "ratio": 0.9112482202183199,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.apps-basic.normal.desktop.large.webp?alt=media",
+              "urlIsRemote": true
+            },
+            "thumb": {
+              "width": 400,
+              "height": 438.95833333333337,
+              "ratio": 0.9112482202183199,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.apps-basic.normal.desktop.thumb.webp?alt=media",
+              "urlIsRemote": true
+            }
+          },
+          "mobile": {
+            "large": {
+              "width": 500,
+              "height": 877.9166666666667,
+              "ratio": 0.5695301376364499,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.apps-basic.normal.mobile.large.webp?alt=media",
+              "urlIsRemote": true
+            },
+            "thumb": {
+              "width": 200,
+              "height": 351.1666666666667,
+              "ratio": 0.5695301376364499,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.apps-basic.normal.mobile.thumb.webp?alt=media",
+              "urlIsRemote": true
+            }
+          }
+        }
+      },
+      "tags": ["type-apps"],
+      "dataTags": [],
+      "widgetType": "apps",
+      "isBlock": true
+    },
+    "com.usegdi.blocks.features-j4k1h": {
+      "id": "com.usegdi.blocks.features-j4k1h",
+      "name": "features-j4k1h",
+      "description": "",
+      "params": {
+        "id": "com.usegdi.blocks.features-j4k1h",
+        "schema": {
+          "strings": {
+            "header": {
+              "fieldType": "text",
+              "isRequired": true,
+              "order": 1
+            },
+            "version": {
+              "fieldType": "text",
+              "order": 2
+            }
+          },
+          "colors": {},
+          "extra": {
+            "featuresDatasetId": {
+              "fieldType": "dataset",
+              "isRequired": true,
+              "order": 0
+            }
+          }
+        }
+      },
+      "sampleData": {
+        "normal": {
+          "id": "normal",
+          "strings": {
+            "header": "Features",
+            "version": "v0.16.0"
+          },
+          "colors": {},
+          "extra": {
+            "featuresDatasetId": "features"
+          }
+        }
+      },
+      "dimensions": {
+        "normal": {
+          "desktop": {
+            "width": 1000,
+            "height": 378.21044921875,
+            "ratio": 2.644030597424394
+          },
+          "mobile": {
+            "width": 500,
+            "height": 302.568359375,
+            "ratio": 1.6525191233902463
+          }
+        }
+      },
+      "screenshots": {
+        "normal": {
+          "desktop": {
+            "large": {
+              "width": 1000,
+              "height": 378.21044921875,
+              "ratio": 2.644030597424394,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.features-basic.normal.desktop.large.webp?alt=media",
+              "urlIsRemote": true
+            },
+            "thumb": {
+              "width": 400,
+              "height": 151.2841796875,
+              "ratio": 2.644030597424394,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.features-basic.normal.desktop.thumb.webp?alt=media",
+              "urlIsRemote": true
+            }
+          },
+          "mobile": {
+            "large": {
+              "width": 500,
+              "height": 302.568359375,
+              "ratio": 1.6525191233902463,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.features-basic.normal.mobile.large.webp?alt=media",
+              "urlIsRemote": true
+            },
+            "thumb": {
+              "width": 200,
+              "height": 121.02734375,
+              "ratio": 1.6525191233902463,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.features-basic.normal.mobile.thumb.webp?alt=media",
+              "urlIsRemote": true
+            }
+          }
+        }
+      },
+      "tags": ["type-features"],
+      "dataTags": [],
+      "widgetType": "features",
+      "isBlock": true
+    },
+    "com.usegdi.blocks.footer-ajk34": {
+      "id": "com.usegdi.blocks.footer-ajk34",
+      "name": "footer-ajk34",
+      "description": "",
+      "params": {
+        "id": "com.usegdi.blocks.footer-ajk34",
+        "schema": {
+          "strings": {
+            "text": {
+              "fieldType": "text",
+              "order": 0
+            }
+          },
+          "colors": {},
+          "extra": {
+            "linksDatasetId": {
+              "fieldType": "dataset",
+              "order": 0
+            }
+          }
+        }
+      },
+      "sampleData": {
+        "normal": {
+          "id": "normal",
+          "strings": {
+            "text": "gDI 2022"
+          },
+          "colors": {},
+          "extra": {
+            "linksDatasetId": "footerLinks"
+          }
+        }
+      },
+      "dimensions": {
+        "normal": {
+          "desktop": {
+            "width": 1000,
+            "height": 62.862141927083336,
+            "ratio": 15.907825749239432
+          },
+          "mobile": {
+            "width": 500,
+            "height": 50.289713541666664,
+            "ratio": 9.942391093274646
+          }
+        }
+      },
+      "screenshots": {
+        "normal": {
+          "desktop": {
+            "large": {
+              "width": 1000,
+              "height": 62.862141927083336,
+              "ratio": 15.907825749239432,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.footer-basic.normal.desktop.large.webp?alt=media",
+              "urlIsRemote": true
+            },
+            "thumb": {
+              "width": 400,
+              "height": 25.144856770833336,
+              "ratio": 15.907825749239432,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.footer-basic.normal.desktop.thumb.webp?alt=media",
+              "urlIsRemote": true
+            }
+          },
+          "mobile": {
+            "large": {
+              "width": 500,
+              "height": 50.289713541666664,
+              "ratio": 9.942391093274646,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.footer-basic.normal.mobile.large.webp?alt=media",
+              "urlIsRemote": true
+            },
+            "thumb": {
+              "width": 200,
+              "height": 20.115885416666668,
+              "ratio": 9.942391093274646,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.footer-basic.normal.mobile.thumb.webp?alt=media",
+              "urlIsRemote": true
+            }
+          }
+        }
+      },
+      "tags": ["type-footer"],
+      "dataTags": [],
+      "widgetType": "footer",
+      "isBlock": true
+    },
+    "com.usegdi.blocks.hero-ajh53": {
+      "id": "com.usegdi.blocks.hero-ajh53",
+      "name": "hero-ajh53",
+      "description": "",
+      "params": {
+        "id": "com.usegdi.blocks.hero-ajh53",
+        "schema": {
+          "strings": {
+            "slogan": {
+              "fieldType": "text",
+              "order": 0
+            },
+            "header": {
+              "fieldType": "text",
+              "isRequired": true,
+              "order": 1
+            },
+            "installation": {
+              "fieldType": "text",
+              "order": 2
+            },
+            "ctaButtonText": {
+              "fieldType": "text",
+              "isRequired": true,
+              "order": 3
+            },
+            "secondaryButtonText": {
+              "fieldType": "text",
+              "order": 4
+            }
+          },
+          "colors": {},
+          "extra": {
+            "href": {
+              "fieldType": "url",
+              "isRequired": true,
+              "order": 0
+            },
+            "imageUrl": {
+              "fieldType": "image",
+              "isRequired": true,
+              "order": 1
+            },
+            "hrefSecondary": {
+              "fieldType": "url",
+              "order": 2
+            }
+          }
+        }
+      },
+      "sampleData": {
+        "normal": {
+          "id": "normal",
+          "strings": {
+            "slogan": "There's a new CMS in town",
+            "header": "gDI",
+            "ctaButtonText": "Demo",
+            "secondaryButtonText": "Visit Github"
+          },
+          "colors": {},
+          "extra": {
+            "installation": "npm install -g @gdi/cli",
+            "href": "https://gdi-demo.web.app/admin/pages?demo=on",
+            "hrefSecondary": "https://github.com/dht/gdi",
+            "imageUrl": "https://static-b9ebe.web.app/gdi-hero.jpg"
+          }
+        }
+      },
+      "dimensions": {
+        "normal": {
+          "desktop": {
+            "width": 1000,
+            "height": 260.4166666666667,
+            "ratio": 3.84
+          },
+          "mobile": {
+            "width": 500,
+            "height": 208.33323160807294,
+            "ratio": 2.400001171875572
+          }
+        }
+      },
+      "screenshots": {
+        "normal": {
+          "desktop": {
+            "large": {
+              "width": 1000,
+              "height": 260.4166666666667,
+              "ratio": 3.84,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.hero-basic.normal.desktop.large.webp?alt=media",
+              "urlIsRemote": true
+            },
+            "thumb": {
+              "width": 400,
+              "height": 104.16666666666667,
+              "ratio": 3.84,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.hero-basic.normal.desktop.thumb.webp?alt=media",
+              "urlIsRemote": true
+            }
+          },
+          "mobile": {
+            "large": {
+              "width": 500,
+              "height": 208.33323160807294,
+              "ratio": 2.400001171875572,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.hero-basic.normal.mobile.large.webp?alt=media",
+              "urlIsRemote": true
+            },
+            "thumb": {
+              "width": 200,
+              "height": 83.33329264322917,
+              "ratio": 2.400001171875572,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.hero-basic.normal.mobile.thumb.webp?alt=media",
+              "urlIsRemote": true
+            }
+          }
+        }
+      },
+      "tags": ["type-hero"],
+      "dataTags": [],
+      "widgetType": "hero",
+      "isBlock": true
+    },
+    "com.usegdi.blocks.gallery-ui5873": {
+      "id": "com.usegdi.blocks.gallery-ui5873",
+      "name": "templates-ui5873",
+      "description": "",
+      "params": {
+        "id": "com.usegdi.blocks.gallery-ui5873",
+        "schema": {
+          "strings": {},
+          "colors": {},
+          "extra": {
+            "appsDatasetId": {
+              "fieldType": "dataset",
+              "isRequired": true,
+              "order": 0
+            },
+            "contentUrl": {
+              "fieldType": "url",
+              "isRequired": true,
+              "order": 1
+            }
+          }
+        }
+      },
+      "sampleData": {
+        "normal": {
+          "id": "normal",
+          "strings": {
+            "header": "Templates"
+          },
+          "colors": {},
+          "extra": {
+            "templatesDatasetId": "templates"
+          }
+        }
+      },
+      "dimensions": {
+        "normal": {
+          "desktop": {
+            "width": 1000,
+            "height": 381.25000000000006,
+            "ratio": 2.622950819672131
+          },
+          "mobile": {
+            "width": 500,
+            "height": 305,
+            "ratio": 1.639344262295082
+          }
+        }
+      },
+      "screenshots": {
+        "normal": {
+          "desktop": {
+            "large": {
+              "width": 1000,
+              "height": 381.25000000000006,
+              "ratio": 2.622950819672131,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.templates-basic.normal.desktop.large.webp?alt=media",
+              "urlIsRemote": true
+            },
+            "thumb": {
+              "width": 400,
+              "height": 152.5,
+              "ratio": 2.622950819672131,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.templates-basic.normal.desktop.thumb.webp?alt=media",
+              "urlIsRemote": true
+            }
+          },
+          "mobile": {
+            "large": {
+              "width": 500,
+              "height": 305,
+              "ratio": 1.639344262295082,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.templates-basic.normal.mobile.large.webp?alt=media",
+              "urlIsRemote": true
+            },
+            "thumb": {
+              "width": 200,
+              "height": 122,
+              "ratio": 1.639344262295082,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.templates-basic.normal.mobile.thumb.webp?alt=media",
+              "urlIsRemote": true
+            }
+          }
+        }
+      },
+      "tags": ["type-templates"],
+      "dataTags": [],
+      "widgetType": "templates",
+      "isBlock": true
+    },
+    "com.usegdi.blocks.top-41hj5": {
+      "id": "com.usegdi.blocks.top-41hj5",
+      "name": "top-41hj5",
+      "description": "",
+      "params": {
+        "id": "com.usegdi.blocks.top-41hj5",
+        "schema": {
+          "strings": {},
+          "colors": {},
+          "extra": {
+            "logoImageUrl": {
+              "fieldType": "image",
+              "isRequired": true,
+              "order": 0
+            },
+            "githubUrl": {
+              "fieldType": "url",
+              "order": 1
+            },
+            "socialDatasetId": {
+              "fieldType": "dataset",
+              "isRequired": true,
+              "order": 2
+            }
+          }
+        }
+      },
+      "sampleData": {
+        "normal": {
+          "id": "normal",
+          "strings": {},
+          "colors": {},
+          "extra": {
+            "logoImageUrl": "",
+            "githubUrl": "#",
+            "socialDatasetId": ""
+          }
+        }
+      },
+      "dimensions": {
+        "normal": {
+          "desktop": {
+            "width": 1000,
+            "height": 50.61848958333333,
+            "ratio": 19.755627009646304
+          },
+          "mobile": {
+            "width": 500,
+            "height": 32.955729166666664,
+            "ratio": 15.17186882655077
+          }
+        }
+      },
+      "screenshots": {
+        "normal": {
+          "desktop": {
+            "large": {
+              "width": 1000,
+              "height": 50.61848958333333,
+              "ratio": 19.755627009646304,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.topHeader-basic.normal.desktop.large.webp?alt=media",
+              "urlIsRemote": true
+            },
+            "thumb": {
+              "width": 400,
+              "height": 20.247395833333332,
+              "ratio": 19.755627009646304,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.topHeader-basic.normal.desktop.thumb.webp?alt=media",
+              "urlIsRemote": true
+            }
+          },
+          "mobile": {
+            "large": {
+              "width": 500,
+              "height": 32.955729166666664,
+              "ratio": 15.17186882655077,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.topHeader-basic.normal.mobile.large.webp?alt=media",
+              "urlIsRemote": true
+            },
+            "thumb": {
+              "width": 200,
+              "height": 13.182291666666666,
+              "ratio": 15.17186882655077,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.topHeader-basic.normal.mobile.thumb.webp?alt=media",
+              "urlIsRemote": true
+            }
+          }
+        }
+      },
+      "tags": ["type-top"],
+      "dataTags": [],
+      "widgetType": "top",
+      "isBlock": true
+    },
+    "com.usegdi.blocks.twins-j1j43": {
+      "id": "com.usegdi.blocks.twins-j1j43",
+      "name": "twins-j1j43",
+      "description": "",
+      "params": {
+        "id": "com.usegdi.blocks.twins-j1j43",
+        "schema": {
+          "strings": {
+            "header": {
+              "fieldType": "text",
+              "isRequired": true,
+              "order": 0
+            },
+            "description": {
+              "fieldType": "longText",
+              "isRequired": true,
+              "order": 1
+            },
+            "buttonText": {
+              "fieldType": "text",
+              "isRequired": true,
+              "order": 3
+            },
+            "headerSecondary": {
+              "fieldType": "text",
+              "isRequired": true,
+              "order": 2
+            },
+            "descriptionSecondary": {
+              "fieldType": "longText",
+              "isRequired": true,
+              "order": 3
+            },
+            "buttonTextSecondary": {
+              "fieldType": "text",
+              "isRequired": true,
+              "order": 3
+            },
+            "notes": {
+              "fieldType": "longText",
+              "isRequired": false,
+              "order": 4
+            }
+          },
+          "colors": {},
+          "extra": {
+            "href": {
+              "fieldType": "url",
+              "isRequired": true,
+              "order": 0
+            },
+            "hrefSecondary": {
+              "fieldType": "url",
+              "isRequired": true,
+              "order": 1
+            },
+            "rotation": {
+              "fieldType": "number",
+              "isRequired": false,
+              "order": 2
+            }
+          }
+        }
+      },
+      "sampleData": {
+        "normal": {
+          "id": "normal",
+          "strings": {
+            "header": "Build for [Firebase]",
+            "description": "Use Firebase to host your site, store your data and manage your users. You can do all that with Firebase's free Spark plan*",
+            "buttonText": "See features",
+            "headerSecondary": "Made with [React]",
+            "descriptionSecondary": "It's easy to extend the CMS with your React skills. Create new templates, apps or data stores. Use JSONs to import & export anything",
+            "buttonTextSecondary": "Visit Github",
+            "notes": "* The Blaze plan is required for Image Uploading. Thumbnail resizing is done via Cloud Functions. It can still be free for low usage."
+          },
+          "colors": {},
+          "extra": {
+            "href": "#features",
+            "hrefSecondary": "https://github.com/dht/gdi",
+            "rotation": 0
+          }
+        }
+      },
+      "dimensions": {
+        "normal": {
+          "desktop": {
+            "width": 1000,
+            "height": 390.625,
+            "ratio": 2.56
+          },
+          "mobile": {
+            "width": 500,
+            "height": 312.5,
+            "ratio": 1.6
+          }
+        }
+      },
+      "screenshots": {
+        "normal": {
+          "desktop": {
+            "large": {
+              "width": 1000,
+              "height": 390.625,
+              "ratio": 2.56,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.twins-basic.normal.desktop.large.webp?alt=media",
+              "urlIsRemote": true
+            },
+            "thumb": {
+              "width": 400,
+              "height": 156.25,
+              "ratio": 2.56,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.twins-basic.normal.desktop.thumb.webp?alt=media",
+              "urlIsRemote": true
+            }
+          },
+          "mobile": {
+            "large": {
+              "width": 500,
+              "height": 312.5,
+              "ratio": 1.6,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.twins-basic.normal.mobile.large.webp?alt=media",
+              "urlIsRemote": true
+            },
+            "thumb": {
+              "width": 200,
+              "height": 125,
+              "ratio": 1.6,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.twins-basic.normal.mobile.thumb.webp?alt=media",
+              "urlIsRemote": true
+            }
+          }
+        }
+      },
+      "tags": ["type-twins"],
+      "dataTags": [],
+      "widgetType": "twins",
+      "isBlock": true
+    },
+    "com.usegdi.blocks.section-gkj41": {
+      "id": "com.usegdi.blocks.section-gkj41",
+      "name": "section-gkj41",
+      "description": "",
+      "params": {
+        "id": "com.usegdi.blocks.section-gkj41",
+        "schema": {
+          "strings": {
+            "text": {
+              "fieldType": "text",
+              "order": 0
+            }
+          },
+          "colors": {},
+          "extra": {
+            "id": {
+              "fieldType": "text",
+              "order": 0
+            },
+            "href": {
+              "fieldType": "text",
+              "order": 1
+            },
+            "isHidden": {
+              "fieldType": "checkbox",
+              "order": 2
+            }
+          }
+        }
+      },
+      "sampleData": {
+        "normal": {
+          "id": "normal",
+          "strings": {
+            "text": "Features"
+          },
+          "colors": {},
+          "extra": {
+            "id": "features",
+            "href": ""
+          }
+        }
+      },
+      "dimensions": {
+        "normal": {
+          "desktop": {
+            "width": 1000,
+            "height": 69.44444444444444,
+            "ratio": 14.4
+          },
+          "mobile": {
+            "width": 500,
+            "height": 33.78394874366554,
+            "ratio": 14.799927734727857
+          }
+        }
+      },
+      "screenshots": {
+        "normal": {
+          "desktop": {
+            "large": {
+              "width": 1000,
+              "height": 69.44444444444444,
+              "ratio": 14.4,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.starter.sectionHeader-basic.normal.desktop.large.webp?alt=media",
+              "urlIsRemote": true
+            },
+            "thumb": {
+              "width": 400,
+              "height": 27.77777777777778,
+              "ratio": 14.4,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.starter.sectionHeader-basic.normal.desktop.thumb.webp?alt=media",
+              "urlIsRemote": true
+            }
+          },
+          "mobile": {
+            "large": {
+              "width": 500,
+              "height": 33.78394874366554,
+              "ratio": 14.799927734727857,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.starter.sectionHeader-basic.normal.mobile.large.webp?alt=media",
+              "urlIsRemote": true
+            },
+            "thumb": {
+              "width": 200,
+              "height": 13.513579497466216,
+              "ratio": 14.799927734727857,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.starter.sectionHeader-basic.normal.mobile.thumb.webp?alt=media",
+              "urlIsRemote": true
+            }
+          }
+        }
+      },
+      "tags": ["type-section"],
+      "dataTags": [],
+      "widgetType": "section",
+      "isBlock": true
+    }
+  },
+  "libraryPages": {
+    "home": {
+      "title": "Home",
+      "description": "The home page",
+      "status": "draft",
+      "id": "home",
+      "path": "/",
+      "iconName": "Home",
+      "tags": [],
+      "dataTags": [],
+      "order": 1,
+      "pageInstanceId": "i1",
+      "index": 0
+    }
+  },
+  "libraryPageInstances": {
+    "i1": {
+      "id": "i1",
+      "version": "v1",
+      "pageId": "home",
+      "index": 0
+    }
+  },
+  "libraryInstances": {
+    "instance-gdi-1": {
+      "id": "instance-gdi-1",
+      "widgetId": "com.usegdi.blocks.top-41hj5",
+      "pageInstanceId": "i1",
+      "order": 1
+    },
+    "instance-gdi-2": {
+      "id": "instance-gdi-2",
+      "widgetId": "com.usegdi.blocks.hero-ajh53",
+      "pageInstanceId": "i1",
+      "order": 2
+    },
+    "instance-gdi-3": {
+      "id": "instance-gdi-3",
+      "widgetId": "com.usegdi.blocks.twins-j1j43",
+      "pageInstanceId": "i1",
+      "order": 3
+    },
+    "instance-gdi-4h": {
+      "id": "instance-gdi-4h",
+      "widgetId": "com.usegdi.blocks.section-gkj41",
+      "pageInstanceId": "i1",
+      "order": 3.5
+    },
+    "instance-gdi-4": {
+      "id": "instance-gdi-4",
+      "widgetId": "com.usegdi.blocks.gallery-ui5873",
+      "pageInstanceId": "i1",
+      "order": 4
+    },
+    "instance-gdi-5h": {
+      "id": "instance-gdi-5h",
+      "widgetId": "com.usegdi.blocks.section-gkj41",
+      "pageInstanceId": "i1",
+      "order": 4.5
+    },
+    "instance-gdi-5": {
+      "id": "instance-gdi-5",
+      "widgetId": "com.usegdi.blocks.apps-jf84j",
+      "pageInstanceId": "i1",
+      "order": 5
+    },
+    "instance-gdi-6": {
+      "id": "instance-gdi-6",
+      "widgetId": "com.usegdi.blocks.features-j4k1h",
+      "pageInstanceId": "i1",
+      "order": 6
+    },
+    "instance-gdi-6h": {
+      "id": "instance-gdi-6h",
+      "widgetId": "com.usegdi.blocks.section-gkj41",
+      "pageInstanceId": "i1",
+      "order": 6.5
+    },
+    "instance-gdi-7": {
+      "id": "instance-gdi-7",
+      "widgetId": "com.usegdi.blocks.footer-ajk34",
+      "pageInstanceId": "i1",
+      "order": 7
+    }
+  },
+  "libraryInstancesProps": {
+    "instance-gdi-1": {
+      "id": "instance-gdi-1",
+      "extra_logoUrl": "https://static-b9ebe.web.app/logo-gdi.svg",
+      "extra_githubUrl": "https://github.com/dht/gdi",
+      "extra_socialDatasetId": "topLinks"
+    },
+    "instance-gdi-2": {
+      "id": "instance-gdi-2",
+      "strings_slogan": "There's a new CMS in town",
+      "strings_header": "gDI",
+      "strings_ctaButtonText": "Get started",
+      "strings_secondaryButtonText": "Visit Github",
+      "extra_installation": "npm install -g @gdi/cli",
+      "extra_href": "https://usegdi.com/docs/docs/getting-started/installation",
+      "extra_hrefSecondary": "https://github.com/dht/gdi",
+      "extra_imageUrl": "https://static-b9ebe.web.app/gdi-hero.jpg"
+    },
+    "instance-gdi-3": {
+      "id": "instance-gdi-3",
+      "strings_header": "Build for [Firebase]",
+      "strings_description": "Use Firebase to host your site, store your data and manage your users. You can do all that with Firebase's free Spark plan*",
+      "strings_buttonText": "See features",
+      "strings_headerSecondary": "Made with [React]",
+      "strings_descriptionSecondary": "It's easy to extend the CMS with your React skills. Create new templates, apps or data stores. Use JSONs to import & export anything",
+      "strings_buttonTextSecondary": "Visit Github",
+      "strings_notes": "* The Blaze plan is required for Image Uploading. Thumbnail resizing is done via Cloud Functions. It can still be free for low usage.",
+      "extra_href": "#features",
+      "extra_hrefSecondary": "https://github.com/dht/gdi",
+      "extra_rotation": -3
+    },
+    "instance-gdi-4h": {
+      "id": "instance-gdi-4h",
+      "strings_text": "Templates",
+      "extra_id": "templates"
+    },
+    "instance-gdi-4": {
+      "id": "instance-gdi-4",
+      "strings_header": "Templates",
+      "extra_templatesDatasetId": "templates"
+    },
+    "instance-gdi-5h": {
+      "id": "instance-gdi-5h",
+      "strings_text": "Apps",
+      "extra_id": "apps"
+    },
+    "instance-gdi-5": {
+      "id": "instance-gdi-5",
+      "strings_header": "Apps",
+      "extra_appsDatasetId": "apps"
+    },
+    "instance-gdi-6h": {
+      "id": "instance-gdi-6h",
+      "strings_text": "Features",
+      "extra_id": "Features"
+    },
+    "instance-gdi-6": {
+      "id": "instance-gdi-6",
+      "strings_header": "Features",
+      "strings_version": "v0.16.0",
+      "extra_featuresDatasetId": "features"
+    },
+    "instance-gdi-7": {
+      "id": "instance-gdi-7",
+      "strings_text": "gDI 2022",
+      "extra_linksDatasetId": "footerLinks"
+    }
+  },
+  "libraryDatasets": {
+    "id": "libraryDatasets",
+    "templates": {
+      "1": {
+        "id": "1",
+        "title": "Starter",
+        "imageUrl": "https://static-b9ebe.web.app/template-starter.jpg",
+        "description": "A simple freelance template to get you started with GDI",
+        "tags": ["V1"],
+        "href": "https://github.com/dht/gdi/tree/main/packages/gdi-template-starter"
+      },
+      "2": {
+        "id": "2",
+        "title": "gDI",
+        "imageUrl": "https://static-b9ebe.web.app/template-gdi.jpg",
+        "description": "The gDI homepage template",
+        "tags": ["V1"],
+        "href": "https://github.com/dht/gdi/tree/main/packages/gdi-template-gdi"
+      }
+    },
+    "apps": {
+      "1": {
+        "id": "1",
+        "title": "Dashboard",
+        "imageUrl": "https://static-b9ebe.web.app/app.png",
+        "description": "Overview of your business",
+        "tags": ["Draft"],
+        "href": "https://github.com/dht/gdi/tree/main/apps/app-dashboard"
+      },
+      "2": {
+        "id": "2",
+        "title": "Factory",
+        "imageUrl": "https://static-b9ebe.web.app/app.png",
+        "description": "Build custom widgets",
+        "tags": ["Draft"],
+        "href": "https://github.com/dht/gdi/tree/main/apps/app-factory"
+      },
+      "3": {
+        "id": "3",
+        "title": "Mixer",
+        "imageUrl": "https://static-b9ebe.web.app/app.png",
+        "description": "Mix blocks, create a site",
+        "tags": ["Beta"],
+        "href": "https://github.com/dht/gdi/tree/main/apps/app-mixer"
+      },
+      "4": {
+        "id": "4",
+        "title": "Settings",
+        "imageUrl": "https://static-b9ebe.web.app/app.png",
+        "description": "Account & site settings",
+        "tags": ["Draft"],
+        "href": "https://github.com/dht/gdi/tree/main/apps/app-settings"
+      },
+      "5": {
+        "id": "5",
+        "title": "Biblo",
+        "imageUrl": "https://static-b9ebe.web.app/app.png",
+        "description": "Manage interesting reads",
+        "tags": ["Draft"],
+        "href": "https://github.com/dht/gdi/tree/main/extra/apps/app-biblo"
+      },
+      "6": {
+        "id": "6",
+        "title": "Campaigns",
+        "imageUrl": "https://static-b9ebe.web.app/app.png",
+        "description": "Advertise your business",
+        "tags": ["Draft"],
+        "href": "https://github.com/dht/gdi/tree/main/extra/apps/app-campaigns"
+      },
+      "7": {
+        "id": "7",
+        "title": "Carts",
+        "imageUrl": "https://static-b9ebe.web.app/app.png",
+        "description": "Offer carts in your site",
+        "tags": ["Draft"],
+        "href": "https://github.com/dht/gdi/tree/main/extra/apps/app-carts"
+      },
+      "8": {
+        "id": "8",
+        "title": "Comments",
+        "imageUrl": "https://static-b9ebe.web.app/app.png",
+        "description": "Offer comments in your site",
+        "tags": ["Draft"],
+        "href": "https://github.com/dht/gdi/tree/main/extra/apps/app-comments"
+      },
+      "9": {
+        "id": "9",
+        "title": "Dashboard3D",
+        "imageUrl": "https://static-b9ebe.web.app/app.png",
+        "description": "3D dashboard with Babylon.js",
+        "tags": ["Draft"],
+        "href": "https://github.com/dht/gdi/tree/main/extra/apps/app-dashboard3d"
+      },
+      "10": {
+        "id": "10",
+        "title": "Devtools",
+        "imageUrl": "https://static-b9ebe.web.app/app.png",
+        "description": "See network calls & dev data",
+        "tags": ["Draft"],
+        "href": "https://github.com/dht/gdi/tree/main/extra/apps/app-devtools"
+      },
+      "11": {
+        "id": "11",
+        "title": "Events",
+        "imageUrl": "https://static-b9ebe.web.app/app.png",
+        "description": "Manage your calendar",
+        "tags": ["Draft"],
+        "href": "https://github.com/dht/gdi/tree/main/extra/apps/app-events"
+      },
+      "12": {
+        "id": "12",
+        "title": "Knowledge",
+        "imageUrl": "https://static-b9ebe.web.app/app.png",
+        "description": "Manage links",
+        "tags": ["Draft"],
+        "href": "https://github.com/dht/gdi/tree/main/extra/apps/app-knowledge"
+      },
+      "13": {
+        "id": "13",
+        "title": "Leads",
+        "imageUrl": "https://static-b9ebe.web.app/app.png",
+        "description": "Manage leads",
+        "tags": ["Draft"],
+        "href": "https://github.com/dht/gdi/tree/main/extra/apps/app-leads"
+      },
+      "14": {
+        "id": "14",
+        "title": "Money",
+        "imageUrl": "https://static-b9ebe.web.app/app.png",
+        "description": "Track your income & expenses",
+        "tags": ["Draft"],
+        "href": "https://github.com/dht/gdi/tree/main/extra/apps/app-money"
+      },
+      "15": {
+        "id": "15",
+        "title": "Orders",
+        "imageUrl": "https://static-b9ebe.web.app/app.png",
+        "description": "Allow order in your site",
+        "tags": ["Draft"],
+        "href": "https://github.com/dht/gdi/tree/main/extra/apps/app-orders"
+      },
+      "16": {
+        "id": "16",
+        "title": "People",
+        "imageUrl": "https://static-b9ebe.web.app/app.png",
+        "description": "Manage contacts",
+        "tags": ["Draft"],
+        "href": "https://github.com/dht/gdi/tree/main/extra/apps/app-people"
+      },
+      "17": {
+        "id": "17",
+        "title": "Products",
+        "imageUrl": "https://static-b9ebe.web.app/app.png",
+        "description": "Allow a store in your site",
+        "tags": ["Draft"],
+        "href": "https://github.com/dht/gdi/tree/main/extra/apps/app-products"
+      },
+      "18": {
+        "id": "18",
+        "title": "Sales",
+        "imageUrl": "https://static-b9ebe.web.app/app.png",
+        "description": "Track sales",
+        "tags": ["Draft"],
+        "href": "https://github.com/dht/gdi/tree/main/extra/apps/app-sales"
+      },
+      "19": {
+        "id": "19",
+        "title": "Soundboard",
+        "imageUrl": "https://static-b9ebe.web.app/app.png",
+        "description": "Manage your attention",
+        "tags": ["Draft"],
+        "href": "https://github.com/dht/gdi/tree/main/extra/apps/app-soundboard"
+      },
+      "20": {
+        "id": "20",
+        "title": "Studio",
+        "imageUrl": "https://static-b9ebe.web.app/app.png",
+        "description": "3D micro-rooms for VR",
+        "tags": ["Draft"],
+        "href": "https://github.com/dht/gdi/tree/main/extra/apps/app-studio"
+      },
+      "21": {
+        "id": "21",
+        "title": "Tasks",
+        "imageUrl": "https://static-b9ebe.web.app/app.png",
+        "description": "Manage tasks and projects",
+        "tags": ["Draft"],
+        "href": "https://github.com/dht/gdi/tree/main/extra/apps/app-tasks"
+      },
+      "22": {
+        "id": "22",
+        "title": "Things",
+        "imageUrl": "https://static-b9ebe.web.app/app.png",
+        "description": "Manage past-time activities",
+        "tags": ["Draft"],
+        "href": "https://github.com/dht/gdi/tree/main/extra/apps/app-things"
+      },
+      "23": {
+        "id": "23",
+        "title": "Voice",
+        "imageUrl": "https://static-b9ebe.web.app/app.png",
+        "description": "Voice control & assistance",
+        "tags": ["Draft"],
+        "href": "https://github.com/dht/gdi/tree/main/extra/apps/app-voice"
+      }
+    },
+    "topLinks": {
+      "1": {
+        "id": "1",
+        "iconName": "https://static-b9ebe.web.app/stack.svg",
+        "href": "https://stackoverflow.com/questions/tagged/gdi-cms"
+      },
+      "2": {
+        "id": "2",
+        "iconName": "https://static-b9ebe.web.app/discord.svg",
+        "href": "https://discord.gg/egAbyQHRrm"
+      },
+      "3": {
+        "id": "3",
+        "iconName": "https://static-b9ebe.web.app/twitter-logo.svg",
+        "href": "https://twitter.com/use_gdi"
+      }
+    },
+    "features": {
+      "1": {
+        "id": "1",
+        "title": "Landing pages",
+        "tag": "",
+        "isSupported": true
+      },
+      "2": {
+        "id": "2",
+        "title": "Image upload",
+        "tag": "",
+        "isSupported": true
+      },
+      "3": {
+        "id": "3",
+        "title": "Multiple templates",
+        "tag": "",
+        "isSupported": true
+      },
+      "4": {
+        "id": "4",
+        "title": "Custom domains",
+        "tag": "",
+        "isSupported": true
+      },
+      "5": {
+        "id": "5",
+        "title": "Admin UI",
+        "tag": "",
+        "isSupported": true
+      },
+      "6": {
+        "id": "6",
+        "title": "ECommerce",
+        "tag": ""
+      },
+      "7": {
+        "id": "7",
+        "title": "Site users",
+        "tag": ""
+      },
+      "8": {
+        "id": "8",
+        "title": "Google Analytics",
+        "tag": "v0.17"
+      },
+      "9": {
+        "id": "9",
+        "title": "Custom widgets",
+        "tag": "v0.20"
+      }
+    },
+    "footerLinks": {
+      "1": {
+        "id": "1",
+        "title": "Github",
+        "href": "https://github.com/dht/gdi"
+      }
+    }
+  },
+  "widgets": {
+    "com.usegdi.blocks.apps-jf84j": {
+      "id": "com.usegdi.blocks.apps-jf84j",
+      "name": "apps-jf84j",
+      "description": "",
+      "params": {
+        "id": "com.usegdi.blocks.apps-jf84j",
+        "schema": {
+          "strings": {
+            "header": {
+              "fieldType": "text",
+              "isRequired": true,
+              "order": 1
+            }
+          },
+          "colors": {},
+          "extra": {
+            "appsDatasetId": {
+              "fieldType": "dataset",
+              "isRequired": true,
+              "order": 0
+            }
+          }
+        }
+      },
+      "sampleData": {
+        "normal": {
+          "id": "normal",
+          "strings": {
+            "header": "Apps"
+          },
+          "colors": {},
+          "extra": {
+            "appsDatasetId": "apps"
+          }
+        }
+      },
+      "dimensions": {
+        "normal": {
+          "desktop": {
+            "width": 1000,
+            "height": 1097.3958333333333,
+            "ratio": 0.9112482202183199
+          },
+          "mobile": {
+            "width": 500,
+            "height": 877.9166666666667,
+            "ratio": 0.5695301376364499
+          }
+        }
+      },
+      "screenshots": {
+        "normal": {
+          "desktop": {
+            "large": {
+              "width": 1000,
+              "height": 1097.3958333333333,
+              "ratio": 0.9112482202183199,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.apps-basic.normal.desktop.large.webp?alt=media",
+              "urlIsRemote": true
+            },
+            "thumb": {
+              "width": 400,
+              "height": 438.95833333333337,
+              "ratio": 0.9112482202183199,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.apps-basic.normal.desktop.thumb.webp?alt=media",
+              "urlIsRemote": true
+            }
+          },
+          "mobile": {
+            "large": {
+              "width": 500,
+              "height": 877.9166666666667,
+              "ratio": 0.5695301376364499,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.apps-basic.normal.mobile.large.webp?alt=media",
+              "urlIsRemote": true
+            },
+            "thumb": {
+              "width": 200,
+              "height": 351.1666666666667,
+              "ratio": 0.5695301376364499,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.apps-basic.normal.mobile.thumb.webp?alt=media",
+              "urlIsRemote": true
+            }
+          }
+        }
+      },
+      "tags": ["type-apps"],
+      "dataTags": [],
+      "widgetType": "apps",
+      "isBlock": true
+    },
+    "com.usegdi.blocks.features-j4k1h": {
+      "id": "com.usegdi.blocks.features-j4k1h",
+      "name": "features-j4k1h",
+      "description": "",
+      "params": {
+        "id": "com.usegdi.blocks.features-j4k1h",
+        "schema": {
+          "strings": {
+            "header": {
+              "fieldType": "text",
+              "isRequired": true,
+              "order": 1
+            },
+            "version": {
+              "fieldType": "text",
+              "order": 2
+            }
+          },
+          "colors": {},
+          "extra": {
+            "featuresDatasetId": {
+              "fieldType": "dataset",
+              "isRequired": true,
+              "order": 0
+            }
+          }
+        }
+      },
+      "sampleData": {
+        "normal": {
+          "id": "normal",
+          "strings": {
+            "header": "Features",
+            "version": "v0.16.0"
+          },
+          "colors": {},
+          "extra": {
+            "featuresDatasetId": "features"
+          }
+        }
+      },
+      "dimensions": {
+        "normal": {
+          "desktop": {
+            "width": 1000,
+            "height": 378.21044921875,
+            "ratio": 2.644030597424394
+          },
+          "mobile": {
+            "width": 500,
+            "height": 302.568359375,
+            "ratio": 1.6525191233902463
+          }
+        }
+      },
+      "screenshots": {
+        "normal": {
+          "desktop": {
+            "large": {
+              "width": 1000,
+              "height": 378.21044921875,
+              "ratio": 2.644030597424394,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.features-basic.normal.desktop.large.webp?alt=media",
+              "urlIsRemote": true
+            },
+            "thumb": {
+              "width": 400,
+              "height": 151.2841796875,
+              "ratio": 2.644030597424394,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.features-basic.normal.desktop.thumb.webp?alt=media",
+              "urlIsRemote": true
+            }
+          },
+          "mobile": {
+            "large": {
+              "width": 500,
+              "height": 302.568359375,
+              "ratio": 1.6525191233902463,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.features-basic.normal.mobile.large.webp?alt=media",
+              "urlIsRemote": true
+            },
+            "thumb": {
+              "width": 200,
+              "height": 121.02734375,
+              "ratio": 1.6525191233902463,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.features-basic.normal.mobile.thumb.webp?alt=media",
+              "urlIsRemote": true
+            }
+          }
+        }
+      },
+      "tags": ["type-features"],
+      "dataTags": [],
+      "widgetType": "features",
+      "isBlock": true
+    },
+    "com.usegdi.blocks.footer-ajk34": {
+      "id": "com.usegdi.blocks.footer-ajk34",
+      "name": "footer-ajk34",
+      "description": "",
+      "params": {
+        "id": "com.usegdi.blocks.footer-ajk34",
+        "schema": {
+          "strings": {
+            "text": {
+              "fieldType": "text",
+              "order": 0
+            }
+          },
+          "colors": {},
+          "extra": {
+            "linksDatasetId": {
+              "fieldType": "dataset",
+              "order": 0
+            }
+          }
+        }
+      },
+      "sampleData": {
+        "normal": {
+          "id": "normal",
+          "strings": {
+            "text": "gDI 2022"
+          },
+          "colors": {},
+          "extra": {
+            "linksDatasetId": "footerLinks"
+          }
+        }
+      },
+      "dimensions": {
+        "normal": {
+          "desktop": {
+            "width": 1000,
+            "height": 62.862141927083336,
+            "ratio": 15.907825749239432
+          },
+          "mobile": {
+            "width": 500,
+            "height": 50.289713541666664,
+            "ratio": 9.942391093274646
+          }
+        }
+      },
+      "screenshots": {
+        "normal": {
+          "desktop": {
+            "large": {
+              "width": 1000,
+              "height": 62.862141927083336,
+              "ratio": 15.907825749239432,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.footer-basic.normal.desktop.large.webp?alt=media",
+              "urlIsRemote": true
+            },
+            "thumb": {
+              "width": 400,
+              "height": 25.144856770833336,
+              "ratio": 15.907825749239432,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.footer-basic.normal.desktop.thumb.webp?alt=media",
+              "urlIsRemote": true
+            }
+          },
+          "mobile": {
+            "large": {
+              "width": 500,
+              "height": 50.289713541666664,
+              "ratio": 9.942391093274646,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.footer-basic.normal.mobile.large.webp?alt=media",
+              "urlIsRemote": true
+            },
+            "thumb": {
+              "width": 200,
+              "height": 20.115885416666668,
+              "ratio": 9.942391093274646,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.footer-basic.normal.mobile.thumb.webp?alt=media",
+              "urlIsRemote": true
+            }
+          }
+        }
+      },
+      "tags": ["type-footer"],
+      "dataTags": [],
+      "widgetType": "footer",
+      "isBlock": true
+    },
+    "com.usegdi.blocks.hero-ajh53": {
+      "id": "com.usegdi.blocks.hero-ajh53",
+      "name": "hero-ajh53",
+      "description": "",
+      "params": {
+        "id": "com.usegdi.blocks.hero-ajh53",
+        "schema": {
+          "strings": {
+            "slogan": {
+              "fieldType": "text",
+              "order": 0
+            },
+            "header": {
+              "fieldType": "text",
+              "isRequired": true,
+              "order": 1
+            },
+            "installation": {
+              "fieldType": "text",
+              "order": 2
+            },
+            "ctaButtonText": {
+              "fieldType": "text",
+              "isRequired": true,
+              "order": 3
+            },
+            "secondaryButtonText": {
+              "fieldType": "text",
+              "order": 4
+            }
+          },
+          "colors": {},
+          "extra": {
+            "href": {
+              "fieldType": "url",
+              "isRequired": true,
+              "order": 0
+            },
+            "imageUrl": {
+              "fieldType": "image",
+              "isRequired": true,
+              "order": 1
+            },
+            "hrefSecondary": {
+              "fieldType": "url",
+              "order": 2
+            }
+          }
+        }
+      },
+      "sampleData": {
+        "normal": {
+          "id": "normal",
+          "strings": {
+            "slogan": "There's a new CMS in town",
+            "header": "gDI",
+            "ctaButtonText": "Get started",
+            "secondaryButtonText": "Visit Github"
+          },
+          "colors": {},
+          "extra": {
+            "installation": "npm install -g @gdi/cli",
+            "href": "https://usegdi.com/docs/docs/getting-started/installation",
+            "hrefSecondary": "https://github.com/dht/gdi",
+            "imageUrl": "https://static-b9ebe.web.app/gdi-hero.jpg"
+          }
+        }
+      },
+      "dimensions": {
+        "normal": {
+          "desktop": {
+            "width": 1000,
+            "height": 260.4166666666667,
+            "ratio": 3.84
+          },
+          "mobile": {
+            "width": 500,
+            "height": 208.33323160807294,
+            "ratio": 2.400001171875572
+          }
+        }
+      },
+      "screenshots": {
+        "normal": {
+          "desktop": {
+            "large": {
+              "width": 1000,
+              "height": 260.4166666666667,
+              "ratio": 3.84,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.hero-basic.normal.desktop.large.webp?alt=media",
+              "urlIsRemote": true
+            },
+            "thumb": {
+              "width": 400,
+              "height": 104.16666666666667,
+              "ratio": 3.84,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.hero-basic.normal.desktop.thumb.webp?alt=media",
+              "urlIsRemote": true
+            }
+          },
+          "mobile": {
+            "large": {
+              "width": 500,
+              "height": 208.33323160807294,
+              "ratio": 2.400001171875572,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.hero-basic.normal.mobile.large.webp?alt=media",
+              "urlIsRemote": true
+            },
+            "thumb": {
+              "width": 200,
+              "height": 83.33329264322917,
+              "ratio": 2.400001171875572,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.hero-basic.normal.mobile.thumb.webp?alt=media",
+              "urlIsRemote": true
+            }
+          }
+        }
+      },
+      "tags": ["type-hero"],
+      "dataTags": [],
+      "widgetType": "hero",
+      "isBlock": true
+    },
+    "com.usegdi.blocks.gallery-ui5873": {
+      "id": "com.usegdi.blocks.gallery-ui5873",
+      "name": "gallery-ui5873",
+      "description": "",
+      "params": {
+        "id": "com.usegdi.blocks.gallery-ui5873",
+        "schema": {
+          "strings": {},
+          "colors": {},
+          "extra": {
+            "appsDatasetId": {
+              "fieldType": "dataset",
+              "isRequired": true,
+              "order": 0
+            },
+            "contentUrl": {
+              "fieldType": "url",
+              "isRequired": true,
+              "order": 1
+            }
+          }
+        }
+      },
+      "sampleData": {
+        "normal": {
+          "id": "normal",
+          "strings": {
+            "header": "Templates"
+          },
+          "colors": {},
+          "extra": {
+            "templatesDatasetId": "templates"
+          }
+        }
+      },
+      "dimensions": {
+        "normal": {
+          "desktop": {
+            "width": 1000,
+            "height": 381.25000000000006,
+            "ratio": 2.622950819672131
+          },
+          "mobile": {
+            "width": 500,
+            "height": 305,
+            "ratio": 1.639344262295082
+          }
+        }
+      },
+      "screenshots": {
+        "normal": {
+          "desktop": {
+            "large": {
+              "width": 1000,
+              "height": 381.25000000000006,
+              "ratio": 2.622950819672131,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.templates-basic.normal.desktop.large.webp?alt=media",
+              "urlIsRemote": true
+            },
+            "thumb": {
+              "width": 400,
+              "height": 152.5,
+              "ratio": 2.622950819672131,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.templates-basic.normal.desktop.thumb.webp?alt=media",
+              "urlIsRemote": true
+            }
+          },
+          "mobile": {
+            "large": {
+              "width": 500,
+              "height": 305,
+              "ratio": 1.639344262295082,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.templates-basic.normal.mobile.large.webp?alt=media",
+              "urlIsRemote": true
+            },
+            "thumb": {
+              "width": 200,
+              "height": 122,
+              "ratio": 1.639344262295082,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.templates-basic.normal.mobile.thumb.webp?alt=media",
+              "urlIsRemote": true
+            }
+          }
+        }
+      },
+      "tags": ["type-templates"],
+      "dataTags": [],
+      "widgetType": "templates",
+      "isBlock": true
+    },
+    "com.usegdi.blocks.top-41hj5": {
+      "id": "com.usegdi.blocks.top-41hj5",
+      "name": "top-41hj5",
+      "description": "",
+      "params": {
+        "id": "com.usegdi.blocks.top-41hj5",
+        "schema": {
+          "strings": {},
+          "colors": {},
+          "extra": {
+            "logoImageUrl": {
+              "fieldType": "image",
+              "isRequired": true,
+              "order": 0
+            },
+            "githubUrl": {
+              "fieldType": "url",
+              "order": 1
+            },
+            "socialDatasetId": {
+              "fieldType": "dataset",
+              "isRequired": true,
+              "order": 2
+            }
+          }
+        }
+      },
+      "sampleData": {
+        "normal": {
+          "id": "normal",
+          "strings": {},
+          "colors": {},
+          "extra": {
+            "logoImageUrl": "",
+            "githubUrl": "#",
+            "socialDatasetId": ""
+          }
+        }
+      },
+      "dimensions": {
+        "normal": {
+          "desktop": {
+            "width": 1000,
+            "height": 50.61848958333333,
+            "ratio": 19.755627009646304
+          },
+          "mobile": {
+            "width": 500,
+            "height": 32.955729166666664,
+            "ratio": 15.17186882655077
+          }
+        }
+      },
+      "screenshots": {
+        "normal": {
+          "desktop": {
+            "large": {
+              "width": 1000,
+              "height": 50.61848958333333,
+              "ratio": 19.755627009646304,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.topHeader-basic.normal.desktop.large.webp?alt=media",
+              "urlIsRemote": true
+            },
+            "thumb": {
+              "width": 400,
+              "height": 20.247395833333332,
+              "ratio": 19.755627009646304,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.topHeader-basic.normal.desktop.thumb.webp?alt=media",
+              "urlIsRemote": true
+            }
+          },
+          "mobile": {
+            "large": {
+              "width": 500,
+              "height": 32.955729166666664,
+              "ratio": 15.17186882655077,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.topHeader-basic.normal.mobile.large.webp?alt=media",
+              "urlIsRemote": true
+            },
+            "thumb": {
+              "width": 200,
+              "height": 13.182291666666666,
+              "ratio": 15.17186882655077,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.topHeader-basic.normal.mobile.thumb.webp?alt=media",
+              "urlIsRemote": true
+            }
+          }
+        }
+      },
+      "tags": ["type-top"],
+      "dataTags": [],
+      "widgetType": "top",
+      "isBlock": true
+    },
+    "com.usegdi.blocks.twins-j1j43": {
+      "id": "com.usegdi.blocks.twins-j1j43",
+      "name": "twins-j1j43",
+      "description": "",
+      "params": {
+        "id": "com.usegdi.blocks.twins-j1j43",
+        "schema": {
+          "strings": {
+            "header": {
+              "fieldType": "text",
+              "isRequired": true,
+              "order": 0
+            },
+            "description": {
+              "fieldType": "longText",
+              "isRequired": true,
+              "order": 1
+            },
+            "buttonText": {
+              "fieldType": "text",
+              "isRequired": true,
+              "order": 3
+            },
+            "headerSecondary": {
+              "fieldType": "text",
+              "isRequired": true,
+              "order": 2
+            },
+            "descriptionSecondary": {
+              "fieldType": "longText",
+              "isRequired": true,
+              "order": 3
+            },
+            "buttonTextSecondary": {
+              "fieldType": "text",
+              "isRequired": true,
+              "order": 3
+            },
+            "notes": {
+              "fieldType": "longText",
+              "isRequired": false,
+              "order": 4
+            }
+          },
+          "colors": {},
+          "extra": {
+            "href": {
+              "fieldType": "url",
+              "isRequired": true,
+              "order": 0
+            },
+            "hrefSecondary": {
+              "fieldType": "url",
+              "isRequired": true,
+              "order": 1
+            },
+            "rotation": {
+              "fieldType": "number",
+              "isRequired": false,
+              "order": 2
+            }
+          }
+        }
+      },
+      "sampleData": {
+        "normal": {
+          "id": "normal",
+          "strings": {
+            "header": "Build for [Firebase]",
+            "description": "Use Firebase to host your site, store your data and manage your users. You can do all that with Firebase's free Spark plan*",
+            "buttonText": "See features",
+            "headerSecondary": "Made with [React]",
+            "descriptionSecondary": "It's easy to extend the CMS with your React skills. Create new templates, apps or data stores. Use JSONs to import & export anything",
+            "buttonTextSecondary": "Visit Github",
+            "notes": "* The Blaze plan is required for Image Uploading. Thumbnail resizing is done via Cloud Functions. It can still be free for low usage."
+          },
+          "colors": {},
+          "extra": {
+            "href": "#features",
+            "hrefSecondary": "https://github.com/dht/gdi",
+            "rotation": 0
+          }
+        }
+      },
+      "dimensions": {
+        "normal": {
+          "desktop": {
+            "width": 1000,
+            "height": 390.625,
+            "ratio": 2.56
+          },
+          "mobile": {
+            "width": 500,
+            "height": 312.5,
+            "ratio": 1.6
+          }
+        }
+      },
+      "screenshots": {
+        "normal": {
+          "desktop": {
+            "large": {
+              "width": 1000,
+              "height": 390.625,
+              "ratio": 2.56,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.twins-basic.normal.desktop.large.webp?alt=media",
+              "urlIsRemote": true
+            },
+            "thumb": {
+              "width": 400,
+              "height": 156.25,
+              "ratio": 2.56,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.twins-basic.normal.desktop.thumb.webp?alt=media",
+              "urlIsRemote": true
+            }
+          },
+          "mobile": {
+            "large": {
+              "width": 500,
+              "height": 312.5,
+              "ratio": 1.6,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.twins-basic.normal.mobile.large.webp?alt=media",
+              "urlIsRemote": true
+            },
+            "thumb": {
+              "width": 200,
+              "height": 125,
+              "ratio": 1.6,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.gdi.twins-basic.normal.mobile.thumb.webp?alt=media",
+              "urlIsRemote": true
+            }
+          }
+        }
+      },
+      "tags": ["type-twins"],
+      "dataTags": [],
+      "widgetType": "twins",
+      "isBlock": true
+    },
+    "com.usegdi.blocks.section-gkj41": {
+      "id": "com.usegdi.blocks.section-gkj41",
+      "name": "section-gkj41",
+      "description": "",
+      "params": {
+        "id": "com.usegdi.blocks.section-gkj41",
+        "schema": {
+          "strings": {
+            "text": {
+              "fieldType": "text",
+              "order": 0
+            }
+          },
+          "colors": {},
+          "extra": {
+            "id": {
+              "fieldType": "text",
+              "order": 0
+            },
+            "href": {
+              "fieldType": "text",
+              "order": 1
+            },
+            "isHidden": {
+              "fieldType": "checkbox",
+              "order": 2
+            }
+          }
+        }
+      },
+      "sampleData": {
+        "normal": {
+          "id": "normal",
+          "strings": {
+            "text": "Features"
+          },
+          "colors": {},
+          "extra": {
+            "id": "features",
+            "href": ""
+          }
+        }
+      },
+      "dimensions": {
+        "normal": {
+          "desktop": {
+            "width": 1000,
+            "height": 69.44444444444444,
+            "ratio": 14.4
+          },
+          "mobile": {
+            "width": 500,
+            "height": 33.78394874366554,
+            "ratio": 14.799927734727857
+          }
+        }
+      },
+      "screenshots": {
+        "normal": {
+          "desktop": {
+            "large": {
+              "width": 1000,
+              "height": 69.44444444444444,
+              "ratio": 14.4,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.starter.sectionHeader-basic.normal.desktop.large.webp?alt=media",
+              "urlIsRemote": true
+            },
+            "thumb": {
+              "width": 400,
+              "height": 27.77777777777778,
+              "ratio": 14.4,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.starter.sectionHeader-basic.normal.desktop.thumb.webp?alt=media",
+              "urlIsRemote": true
+            }
+          },
+          "mobile": {
+            "large": {
+              "width": 500,
+              "height": 33.78394874366554,
+              "ratio": 14.799927734727857,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.starter.sectionHeader-basic.normal.mobile.large.webp?alt=media",
+              "urlIsRemote": true
+            },
+            "thumb": {
+              "width": 200,
+              "height": 13.513579497466216,
+              "ratio": 14.799927734727857,
+              "url": "https://storage.googleapis.com/download/storage/v1/b/life-b033c.appspot.com/o/screenshots%2Fscreenshot.starter.sectionHeader-basic.normal.mobile.thumb.webp?alt=media",
+              "urlIsRemote": true
+            }
+          }
+        }
+      },
+      "tags": ["type-section"],
+      "dataTags": [],
+      "widgetType": "section",
+      "isBlock": true
+    }
+  },
+  "pages": {
+    "home": {
+      "title": "Home",
+      "description": "The home page",
+      "status": "draft",
+      "id": "home",
+      "path": "/",
+      "iconName": "Home",
+      "tags": [],
+      "dataTags": [],
+      "order": 1,
+      "pageInstanceId": "i1",
+      "index": 0
+    }
+  },
+  "pageInstances": {
+    "i1": {
+      "id": "i1",
+      "version": "v1",
+      "pageId": "home",
+      "index": 0
+    }
+  },
+  "instances": {
+    "instance-gdi-1": {
+      "id": "instance-gdi-1",
+      "widgetId": "com.usegdi.blocks.top-41hj5",
+      "pageInstanceId": "i1",
+      "order": 1
+    },
+    "instance-gdi-2": {
+      "id": "instance-gdi-2",
+      "widgetId": "com.usegdi.blocks.hero-ajh53",
+      "pageInstanceId": "i1",
+      "order": 2
+    },
+    "instance-gdi-3": {
+      "id": "instance-gdi-3",
+      "widgetId": "com.usegdi.blocks.twins-j1j43",
+      "pageInstanceId": "i1",
+      "order": 3
+    },
+    "instance-gdi-4h": {
+      "id": "instance-gdi-4h",
+      "widgetId": "com.usegdi.blocks.section-gkj41",
+      "pageInstanceId": "i1",
+      "order": 3.5
+    },
+    "instance-gdi-4": {
+      "id": "instance-gdi-4",
+      "widgetId": "com.usegdi.blocks.gallery-ui5873",
+      "pageInstanceId": "i1",
+      "order": 4
+    },
+    "instance-gdi-5h": {
+      "id": "instance-gdi-5h",
+      "widgetId": "com.usegdi.blocks.section-gkj41",
+      "pageInstanceId": "i1",
+      "order": 4.5
+    },
+    "instance-gdi-5": {
+      "id": "instance-gdi-5",
+      "widgetId": "com.usegdi.blocks.apps-jf84j",
+      "pageInstanceId": "i1",
+      "order": 5
+    },
+    "instance-gdi-6": {
+      "id": "instance-gdi-6",
+      "widgetId": "com.usegdi.blocks.features-j4k1h",
+      "pageInstanceId": "i1",
+      "order": 6
+    },
+    "instance-gdi-6h": {
+      "id": "instance-gdi-6h",
+      "widgetId": "com.usegdi.blocks.section-gkj41",
+      "pageInstanceId": "i1",
+      "order": 6.5
+    },
+    "instance-gdi-7": {
+      "id": "instance-gdi-7",
+      "widgetId": "com.usegdi.blocks.footer-ajk34",
+      "pageInstanceId": "i1",
+      "order": 7
+    }
+  },
+  "instancesProps": {
+    "instance-gdi-1": {
+      "id": "instance-gdi-1",
+      "extra_logoUrl": "https://static-b9ebe.web.app/logo-gdi.svg",
+      "extra_githubUrl": "https://github.com/dht/gdi",
+      "extra_socialDatasetId": "topLinks"
+    },
+    "instance-gdi-2": {
+      "id": "instance-gdi-2",
+      "strings_slogan": "There's a new CMS in town",
+      "strings_header": "gDI",
+      "strings_ctaButtonText": "Get started",
+      "strings_secondaryButtonText": "Visit Github",
+      "extra_installation": "npm install -g @gdi/cli",
+      "extra_href": "https://usegdi.com/docs/docs/getting-started/installation",
+      "extra_hrefSecondary": "https://github.com/dht/gdi",
+      "extra_imageUrl": "https://static-b9ebe.web.app/gdi-hero.jpg"
+    },
+    "instance-gdi-3": {
+      "id": "instance-gdi-3",
+      "strings_header": "Build for [Firebase]",
+      "strings_description": "Use Firebase to host your site, store your data and manage your users. You can do all that with Firebase's free Spark plan*",
+      "strings_buttonText": "See features",
+      "strings_headerSecondary": "Made with [React]",
+      "strings_descriptionSecondary": "It's easy to extend the CMS with your React skills. Create new templates, apps or data stores. Use JSONs to import & export anything",
+      "strings_buttonTextSecondary": "Visit Github",
+      "strings_notes": "* The Blaze plan is required for Image Uploading. Thumbnail resizing is done via Cloud Functions. It can still be free for low usage.",
+      "extra_href": "#features",
+      "extra_hrefSecondary": "https://github.com/dht/gdi",
+      "extra_rotation": -3
+    },
+    "instance-gdi-4h": {
+      "id": "instance-gdi-4h",
+      "strings_text": "Templates",
+      "extra_id": "templates"
+    },
+    "instance-gdi-4": {
+      "id": "instance-gdi-4",
+      "strings_header": "Templates",
+      "extra_templatesDatasetId": "templates"
+    },
+    "instance-gdi-5h": {
+      "id": "instance-gdi-5h",
+      "strings_text": "Apps",
+      "extra_id": "apps"
+    },
+    "instance-gdi-5": {
+      "id": "instance-gdi-5",
+      "strings_header": "Apps",
+      "extra_appsDatasetId": "apps"
+    },
+    "instance-gdi-6h": {
+      "id": "instance-gdi-6h",
+      "strings_text": "Features",
+      "extra_id": "Features"
+    },
+    "instance-gdi-6": {
+      "id": "instance-gdi-6",
+      "strings_header": "Features",
+      "strings_version": "v0.16.0",
+      "extra_featuresDatasetId": "features"
+    },
+    "instance-gdi-7": {
+      "id": "instance-gdi-7",
+      "strings_text": "gDI 2022",
+      "extra_linksDatasetId": "footerLinks"
+    }
+  },
+  "datasets": {
+    "id": "datasets",
+    "templates": {
+      "1": {
+        "id": "1",
+        "title": "Starter",
+        "imageUrl": "https://static-b9ebe.web.app/template-starter.jpg",
+        "description": "A simple freelance template to get you started with GDI",
+        "tags": ["V1"],
+        "href": "https://github.com/dht/gdi/tree/main/packages/gdi-template-starter"
+      },
+      "2": {
+        "id": "2",
+        "title": "gDI",
+        "imageUrl": "https://static-b9ebe.web.app/template-gdi.jpg",
+        "description": "The gDI homepage template",
+        "tags": ["V1"],
+        "href": "https://github.com/dht/gdi/tree/main/packages/gdi-template-gdi"
+      }
+    },
+    "apps": {
+      "1": {
+        "id": "1",
+        "title": "Dashboard",
+        "imageUrl": "https://static-b9ebe.web.app/app.png",
+        "description": "Overview of your business",
+        "tags": ["Draft"],
+        "href": "https://github.com/dht/gdi/tree/main/apps/app-dashboard"
+      },
+      "2": {
+        "id": "2",
+        "title": "Factory",
+        "imageUrl": "https://static-b9ebe.web.app/app.png",
+        "description": "Build custom widgets",
+        "tags": ["Draft"],
+        "href": "https://github.com/dht/gdi/tree/main/apps/app-factory"
+      },
+      "3": {
+        "id": "3",
+        "title": "Mixer",
+        "imageUrl": "https://static-b9ebe.web.app/app.png",
+        "description": "Mix blocks, create a site",
+        "tags": ["Beta"],
+        "href": "https://github.com/dht/gdi/tree/main/apps/app-mixer"
+      },
+      "4": {
+        "id": "4",
+        "title": "Settings",
+        "imageUrl": "https://static-b9ebe.web.app/app.png",
+        "description": "Account & site settings",
+        "tags": ["Draft"],
+        "href": "https://github.com/dht/gdi/tree/main/apps/app-settings"
+      },
+      "5": {
+        "id": "5",
+        "title": "Biblo",
+        "imageUrl": "https://static-b9ebe.web.app/app.png",
+        "description": "Manage interesting reads",
+        "tags": ["Draft"],
+        "href": "https://github.com/dht/gdi/tree/main/extra/apps/app-biblo"
+      },
+      "6": {
+        "id": "6",
+        "title": "Campaigns",
+        "imageUrl": "https://static-b9ebe.web.app/app.png",
+        "description": "Advertise your business",
+        "tags": ["Draft"],
+        "href": "https://github.com/dht/gdi/tree/main/extra/apps/app-campaigns"
+      },
+      "7": {
+        "id": "7",
+        "title": "Carts",
+        "imageUrl": "https://static-b9ebe.web.app/app.png",
+        "description": "Offer carts in your site",
+        "tags": ["Draft"],
+        "href": "https://github.com/dht/gdi/tree/main/extra/apps/app-carts"
+      },
+      "8": {
+        "id": "8",
+        "title": "Comments",
+        "imageUrl": "https://static-b9ebe.web.app/app.png",
+        "description": "Offer comments in your site",
+        "tags": ["Draft"],
+        "href": "https://github.com/dht/gdi/tree/main/extra/apps/app-comments"
+      },
+      "9": {
+        "id": "9",
+        "title": "Dashboard3D",
+        "imageUrl": "https://static-b9ebe.web.app/app.png",
+        "description": "3D dashboard with Babylon.js",
+        "tags": ["Draft"],
+        "href": "https://github.com/dht/gdi/tree/main/extra/apps/app-dashboard3d"
+      },
+      "10": {
+        "id": "10",
+        "title": "Devtools",
+        "imageUrl": "https://static-b9ebe.web.app/app.png",
+        "description": "See network calls & dev data",
+        "tags": ["Draft"],
+        "href": "https://github.com/dht/gdi/tree/main/extra/apps/app-devtools"
+      },
+      "11": {
+        "id": "11",
+        "title": "Events",
+        "imageUrl": "https://static-b9ebe.web.app/app.png",
+        "description": "Manage your calendar",
+        "tags": ["Draft"],
+        "href": "https://github.com/dht/gdi/tree/main/extra/apps/app-events"
+      },
+      "12": {
+        "id": "12",
+        "title": "Knowledge",
+        "imageUrl": "https://static-b9ebe.web.app/app.png",
+        "description": "Manage links",
+        "tags": ["Draft"],
+        "href": "https://github.com/dht/gdi/tree/main/extra/apps/app-knowledge"
+      },
+      "13": {
+        "id": "13",
+        "title": "Leads",
+        "imageUrl": "https://static-b9ebe.web.app/app.png",
+        "description": "Manage leads",
+        "tags": ["Draft"],
+        "href": "https://github.com/dht/gdi/tree/main/extra/apps/app-leads"
+      },
+      "14": {
+        "id": "14",
+        "title": "Money",
+        "imageUrl": "https://static-b9ebe.web.app/app.png",
+        "description": "Track your income & expenses",
+        "tags": ["Draft"],
+        "href": "https://github.com/dht/gdi/tree/main/extra/apps/app-money"
+      },
+      "15": {
+        "id": "15",
+        "title": "Orders",
+        "imageUrl": "https://static-b9ebe.web.app/app.png",
+        "description": "Allow order in your site",
+        "tags": ["Draft"],
+        "href": "https://github.com/dht/gdi/tree/main/extra/apps/app-orders"
+      },
+      "16": {
+        "id": "16",
+        "title": "People",
+        "imageUrl": "https://static-b9ebe.web.app/app.png",
+        "description": "Manage contacts",
+        "tags": ["Draft"],
+        "href": "https://github.com/dht/gdi/tree/main/extra/apps/app-people"
+      },
+      "17": {
+        "id": "17",
+        "title": "Products",
+        "imageUrl": "https://static-b9ebe.web.app/app.png",
+        "description": "Allow a store in your site",
+        "tags": ["Draft"],
+        "href": "https://github.com/dht/gdi/tree/main/extra/apps/app-products"
+      },
+      "18": {
+        "id": "18",
+        "title": "Sales",
+        "imageUrl": "https://static-b9ebe.web.app/app.png",
+        "description": "Track sales",
+        "tags": ["Draft"],
+        "href": "https://github.com/dht/gdi/tree/main/extra/apps/app-sales"
+      },
+      "19": {
+        "id": "19",
+        "title": "Soundboard",
+        "imageUrl": "https://static-b9ebe.web.app/app.png",
+        "description": "Manage your attention",
+        "tags": ["Draft"],
+        "href": "https://github.com/dht/gdi/tree/main/extra/apps/app-soundboard"
+      },
+      "20": {
+        "id": "20",
+        "title": "Studio",
+        "imageUrl": "https://static-b9ebe.web.app/app.png",
+        "description": "3D micro-rooms for VR",
+        "tags": ["Draft"],
+        "href": "https://github.com/dht/gdi/tree/main/extra/apps/app-studio"
+      },
+      "21": {
+        "id": "21",
+        "title": "Tasks",
+        "imageUrl": "https://static-b9ebe.web.app/app.png",
+        "description": "Manage tasks and projects",
+        "tags": ["Draft"],
+        "href": "https://github.com/dht/gdi/tree/main/extra/apps/app-tasks"
+      },
+      "22": {
+        "id": "22",
+        "title": "Things",
+        "imageUrl": "https://static-b9ebe.web.app/app.png",
+        "description": "Manage past-time activities",
+        "tags": ["Draft"],
+        "href": "https://github.com/dht/gdi/tree/main/extra/apps/app-things"
+      },
+      "23": {
+        "id": "23",
+        "title": "Voice",
+        "imageUrl": "https://static-b9ebe.web.app/app.png",
+        "description": "Voice control & assistance",
+        "tags": ["Draft"],
+        "href": "https://github.com/dht/gdi/tree/main/extra/apps/app-voice"
+      }
+    },
+    "topLinks": {
+      "1": {
+        "id": "1",
+        "iconName": "https://static-b9ebe.web.app/stack.svg",
+        "href": "https://stackoverflow.com/questions/tagged/gdi-cms"
+      },
+      "2": {
+        "id": "2",
+        "iconName": "https://static-b9ebe.web.app/discord.svg",
+        "href": "https://discord.gg/egAbyQHRrm"
+      },
+      "3": {
+        "id": "3",
+        "iconName": "https://static-b9ebe.web.app/twitter-logo.svg",
+        "href": "https://twitter.com/use_gdi"
+      }
+    },
+    "features": {
+      "1": {
+        "id": "1",
+        "title": "Landing pages",
+        "tag": "",
+        "isSupported": true
+      },
+      "2": {
+        "id": "2",
+        "title": "Image upload",
+        "tag": "",
+        "isSupported": true
+      },
+      "3": {
+        "id": "3",
+        "title": "Multiple templates",
+        "tag": "",
+        "isSupported": true
+      },
+      "4": {
+        "id": "4",
+        "title": "Custom domains",
+        "tag": "",
+        "isSupported": true
+      },
+      "5": {
+        "id": "5",
+        "title": "Admin UI",
+        "tag": "",
+        "isSupported": true
+      },
+      "6": {
+        "id": "6",
+        "title": "ECommerce",
+        "tag": ""
+      },
+      "7": {
+        "id": "7",
+        "title": "Site users",
+        "tag": ""
+      },
+      "8": {
+        "id": "8",
+        "title": "Google Analytics",
+        "tag": "v0.17"
+      },
+      "9": {
+        "id": "9",
+        "title": "Custom widgets",
+        "tag": "v0.20"
+      }
+    },
+    "footerLinks": {
+      "1": {
+        "id": "1",
+        "title": "Github",
+        "href": "https://github.com/dht/gdi"
+      }
+    }
+  },
+  "palette": {
+    "id": "palette",
+    "identifier": "green",
+    "title": "Green",
+    "color1": "#22577a",
+    "color2": "#38a3a5",
+    "color3": "#57cc99",
+    "color4": "#80ed99",
+    "color5": "#c7f9cc"
+  },
+  "fonts": {
+    "id": "fonts",
+    "typographyId": "inter",
+    "fontFamily": "'Inter', sans-serif",
+    "fontWeight": "regular"
+  },
+  "locale": {
+    "id": "locale",
+    "localeId": "en-us",
+    "isRtl": false
+  }
+}
